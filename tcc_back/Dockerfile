@@ -1,21 +1,23 @@
-# Imagem base
+# Use uma imagem base com Python
 FROM python:3.10
 
 # Defina o diretório de trabalho
-WORKDIR /app
+WORKDIR /app/tcc_back
 
-# Copie o requirements.txt e instale as dependências
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+# Copie o arquivo de dependências para o container
+COPY requirements.txt /app/
+
+# Instale as dependências
+RUN pip install --no-cache-dir -r /app/requirements.txt
 
 # Copie o resto do código da aplicação para o diretório de trabalho
-COPY . .
+COPY . /app/
 
-# Configura as variáveis de ambiente do Django
+# Configura variáveis de ambiente Django
 ENV DJANGO_SETTINGS_MODULE=tcc_back.settings
 ENV PYTHONUNBUFFERED 1
 
-# Exponha a porta 8000
+# Exponha a porta 8000 para o Django
 EXPOSE 8000
 
 # Comando para rodar o Django
