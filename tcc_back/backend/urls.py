@@ -1,7 +1,7 @@
 from django.urls import path
 from . import views
 
-urlpatterns = [
+urlpatterns = [ 
     path('api/pacientes/', views.lista_cria_pacientes, name='lista_cria_pacientes'),  # URL para listar e criar pacientes
     path('api/pacientes/<int:paciente_id>/', views.detalhe_paciente, name='detalhe_paciente'),  # URL para acessar, visualizar e atualizar um paciente específico
     path('api/pacientes/<int:paciente_id>/exames/', views.exames_por_paciente, name='exames_por_paciente'),  # URL para acessar exames de um paciente específico
