@@ -3772,3 +3772,1441 @@ Alelo salvo com sucesso: B*07:02
 Salvando alelo: Nome: C*07:02, Valor: 208.26, Compatibilidade: True
 Alelo salvo com sucesso: C*07:02
 Crossmatch processado com sucesso.
+Watching for file changes with StatReloader
+Processando alelo: A*01:01 com valor: 310.47
+Processando alelo: A*02:01 com valor: 32.31
+Processando alelo: A*02:03 com valor: 32.17
+Processando alelo: A*02:06 com valor: 74.28
+Processando alelo: A*03:01 com valor: 9419.2
+Processando alelo: A*11:01 com valor: 3820.44
+Processando alelo: A*11:02 com valor: 3001.49
+Processando alelo: A*23:01 com valor: 11598.97
+Processando alelo: A*24:02 com valor: 928.63
+Processando alelo: A*24:03 com valor: 2248.91
+Processando alelo: A*25:01 com valor: 5995.58
+Processando alelo: A*26:01 com valor: 7195.62
+Processando alelo: A*29:01 com valor: 6727.17
+Processando alelo: B*27:05 com valor: 856.58
+Processando alelo: A*29:02 com valor: 6016.05
+Processando alelo: A*30:01 com valor: 121.8
+Processando alelo: A*30:02 com valor: 13039.91
+Processando alelo: A*31:01 com valor: 117.69
+Processando alelo: A*32:01 com valor: 7592.72
+Processando alelo: A*33:01 com valor: 902.07
+Processando alelo: A*34:01 com valor: 13946.82
+Processando alelo: A*34:02 com valor: 7951.69
+Processando alelo: A*36:01 com valor: 123.87
+Processando alelo: A*43:01 com valor: 12772.34
+Processando alelo: A*66:01 com valor: 119.65
+Processando alelo: A*66:02 com valor: 5424.87
+Processando alelo: A*68:01 com valor: 9977.58
+Processando alelo: A*68:02 com valor: 1249.66
+Processando alelo: A*69:01 com valor: 11070.91
+Processando alelo: A*74:01 com valor: 7746.79
+Processando alelo: A*80:01 com valor: 7818.95
+Processando alelo: B*07:02 com valor: 99.28
+Processando alelo: B*08:01 com valor: 10973.49
+Processando alelo: B*13:02 com valor: 12325.63
+Processando alelo: B*14:01 com valor: 10600.74
+Processando alelo: B*14:02 com valor: 158.39
+Processando alelo: B*15:01 com valor: 2538.74
+Processando alelo: B*15:02 com valor: 4883.02
+Processando alelo: B*15:03 com valor: 2323.32
+Processando alelo: B*15:10 com valor: 8051.08
+Processando alelo: B*15:12 com valor: 4195.78
+Processando alelo: B*15:13 com valor: 5520.02
+Processando alelo: B*15:16 com valor: 8757.57
+Processando alelo: B*18:01 com valor: 4141.39
+Processando alelo: B*27:08 com valor: 841.25
+Processando alelo: B*35:01 com valor: 4697.5
+Processando alelo: B*37:01 com valor: 9638.33
+Processando alelo: B*38:01 com valor: 4875.3
+Processando alelo: B*39:01 com valor: 112.69
+Processando alelo: B*40:01 com valor: 1758.86
+Processando alelo: B*40:02 com valor: 10.5
+Processando alelo: B*41:01 com valor: 152.57
+Processando alelo: B*42:01 com valor: 1413.51
+Processando alelo: B*44:02 com valor: 15065.54
+Processando alelo: B*44:03 com valor: 130.23
+Processando alelo: B*45:01 com valor: 9790.14
+Processando alelo: B*49:01 com valor: 3995.98
+Processando alelo: B*47:01 com valor: 12076.4
+Processando alelo: B*48:01 com valor: 96.64
+Processando alelo: B*46:01 com valor: 7715.15
+Processando alelo: B*50:01 com valor: 56.19
+Processando alelo: B*51:01 com valor: 3186.2
+Processando alelo: B*51:02 com valor: 4255.23
+Processando alelo: B*52:01 com valor: 6662.46
+Processando alelo: B*53:01 com valor: 5217.43
+Processando alelo: B*54:01 com valor: 15765.95
+Processando alelo: B*55:01 com valor: 3189.35
+Processando alelo: B*56:01 com valor: 6879.56
+Processando alelo: B*57:01 com valor: 99.83
+Processando alelo: B*57:03 com valor: 193.71
+Processando alelo: B*58:01 com valor: 3811.94
+Processando alelo: B*59:01 com valor: 9169.72
+Processando alelo: B*67:01 com valor: 606.61
+Processando alelo: B*73:01 com valor: 12859.94
+Processando alelo: B*78:01 com valor: 4345.4
+Processando alelo: B*81:01 com valor: 5400.14
+Processando alelo: B*82:01 com valor: 198.81
+Processando alelo: C*01:02 com valor: 1758.25
+Processando alelo: C*02:02 com valor: 194.6
+Processando alelo: C*03:02 com valor: 9281.48
+Processando alelo: C*03:03 com valor: 8640.05
+Processando alelo: C*03:04 com valor: 12024.8
+Processando alelo: C*04:01 com valor: 209.3
+Processando alelo: C*05:01 com valor: 167.35
+Processando alelo: C*06:02 com valor: 173.36
+Processando alelo: C*07:02 com valor: 208.26
+Processando alelo: C*08:01 com valor: 1204.45
+Processando alelo: C*12:03 com valor: 231.36
+Processando alelo: C*14:02 com valor: 265.87
+Processando alelo: C*15:02 com valor: 12993.46
+Processando alelo: C*16:01 com valor: 13438.43
+Processando alelo: C*17:01 com valor: 376.53
+Processando alelo: C*18:02 com valor: 232.57
+Processando alelo: B*13:01 com valor: 10988.18
+Processando alelo: B*15:11 com valor: 5360.27
+Processando alelo: B*40:06 com valor: 17643.62
+Processando alelo: A*33:03 com valor: 9493.46
+Processando alelo: DRB1*01:01 com valor: 11964.41
+Processando alelo: DRB1*01:02 com valor: 13554.0
+Processando alelo: DRB1*01:03 com valor: 23.32
+Processando alelo: DRB1*03:01 com valor: 157.35
+Processando alelo: DRB1*03:02 com valor: 210.67
+Processando alelo: DRB1*04:01 com valor: 19586.13
+Processando alelo: DRB1*04:02 com valor: 4052.25
+Processando alelo: DRB1*04:04 com valor: 21176.8
+Processando alelo: DRB1*04:05 com valor: 179.63
+Processando alelo: DRB1*07:01 com valor: 14746.13
+Processando alelo: DRB1*04:03 com valor: 9234.63
+Processando alelo: DRB1*08:01 com valor: 103.99
+Processando alelo: DRB1*09:01 com valor: 226.35
+Processando alelo: DRB1*09:02 com valor: 22749.25
+Processando alelo: DRB1*10:01 com valor: 17971.53
+Processando alelo: DRB1*11:01 com valor: 139.12
+Processando alelo: DRB1*11:04 com valor: 98.7
+Processando alelo: DRB1*12:01 com valor: 172.82
+Processando alelo: DRB1*12:02 com valor: 125.73
+Processando alelo: DRB1*13:01 com valor: 214.04
+Processando alelo: DRB1*13:03 com valor: 63.82
+Processando alelo: DRB1*14:01 com valor: 7875.52
+Processando alelo: DRB1*14:02 com valor: 199.39
+Processando alelo: DRB1*14:54 com valor: 7984.98
+Processando alelo: DRB1*15:01 com valor: 2799.77
+Processando alelo: DRB1*15:02 com valor: 2700.73
+Processando alelo: DRB1*15:03 com valor: 386.56
+Processando alelo: DRB1*16:01 com valor: 256.7
+Processando alelo: DRB1*16:02 com valor: 261.35
+Processando alelo: DRB3*01:01 com valor: 153.61
+Processando alelo: DRB3*02:02 com valor: 78.57
+Processando alelo: DRB3*03:01 com valor: 70.09
+Processando alelo: DRB4*01:01 com valor: 18502.08
+Processando alelo: DRB4*01:03 com valor: 15860.21
+Processando alelo: DRB5*01:01 com valor: 23557.0
+Processando alelo: DRB5*02:02 com valor: 22968.43
+Processando alelo: DQA1*02:01 com valor: 125.06
+Processando alelo: DQB1*02:01 com valor: 125.06
+Processando alelo: DQA1*03:01 com valor: 14980.46
+Processando alelo: DQB1*02:01 com valor: 14980.46
+Processando alelo: DQA1*04:01 com valor: 127.71
+Processando alelo: DQB1*02:01 com valor: 127.71
+Processando alelo: DQA1*05:01 com valor: 204.9
+Processando alelo: DQB1*02:01 com valor: 204.9
+Processando alelo: DQA1*02:01 com valor: 12349.42
+Processando alelo: DQB1*02:02 com valor: 12349.42
+Processando alelo: DQA1*02:01 com valor: 829.17
+Processando alelo: DQB1*04:01 com valor: 829.17
+Processando alelo: DQA1*03:03 com valor: 502.08
+Processando alelo: DQB1*04:01 com valor: 502.08
+Processando alelo: DQA1*02:01 com valor: 1332.49
+Processando alelo: DQB1*04:02 com valor: 1332.49
+Processando alelo: DQA1*04:01 com valor: 336.36
+Processando alelo: DQB1*04:02 com valor: 336.36
+Processando alelo: DQA1*01:01 com valor: 13928.34
+Processando alelo: DQB1*05:01 com valor: 13928.34
+Processando alelo: DQA1*01:02 com valor: 6828.76
+Processando alelo: DQB1*05:02 com valor: 6828.76
+Processando alelo: DQA1*01:03 com valor: 207.91
+Processando alelo: DQB1*06:01 com valor: 207.91
+Processando alelo: DQA1*01:02 com valor: 638.53
+Processando alelo: DQB1*06:02 com valor: 638.53
+Processando alelo: DQA1*01:01 com valor: 1036.67
+Processando alelo: DQB1*06:02 com valor: 1036.67
+Processando alelo: DQA1*01:03 com valor: 1917.91
+Processando alelo: DQB1*06:03 com valor: 1917.91
+Processando alelo: DQA1*01:02 com valor: 128.52
+Processando alelo: DQB1*06:04 com valor: 128.52
+Processando alelo: DQA1*01:02 com valor: 65.89
+Processando alelo: DQB1*06:09 com valor: 65.89
+Processando alelo: DQA1*03:01 com valor: 131.66
+Processando alelo: DQB1*03:01 com valor: 131.66
+Processando alelo: DQA1*02:01 com valor: 50.0
+Processando alelo: DQB1*03:01 com valor: 50.0
+Processando alelo: DQA1*05:03 com valor: 92.28
+Processando alelo: DQB1*03:01 com valor: 92.28
+Processando alelo: DQA1*05:05 com valor: 28.79
+Processando alelo: DQB1*03:19 com valor: 28.79
+Processando alelo: DQA1*06:01 com valor: 38.09
+Processando alelo: DQB1*03:01 com valor: 38.09
+Processando alelo: DQA1*02:01 com valor: 91.48
+Processando alelo: DQB1*03:02 com valor: 91.48
+Processando alelo: DQA1*03:01 com valor: 184.12
+Processando alelo: DQB1*03:02 com valor: 184.12
+Processando alelo: DQA1*03:02 com valor: 251.36
+Processando alelo: DQB1*03:02 com valor: 251.36
+Processando alelo: DQA1*02:01 com valor: 82.5
+Processando alelo: DQB1*03:03 com valor: 82.5
+Processando alelo: DQA1*03:01 com valor: 108.64
+Processando alelo: DQB1*03:03 com valor: 108.64
+Processando alelo: DQA1*03:02 com valor: 551.84
+Processando alelo: DQB1*03:03 com valor: 551.84
+Processando alelo: DPA1*01:03 com valor: 6155.88
+Processando alelo: DPB1*01:01 com valor: 6155.88
+Processando alelo: DPA1*02:01 com valor: 13212.9
+Processando alelo: DPB1*01:01 com valor: 13212.9
+Processando alelo: DPA1*01:03 com valor: 126.93
+Processando alelo: DPB1*02:01 com valor: 126.93
+Processando alelo: DPA1*02:02 com valor: 142.19
+Processando alelo: DPB1*05:01 com valor: 142.19
+Processando alelo: DPA1*01:03 com valor: 94.76
+Processando alelo: DPB1*03:01 com valor: 94.76
+Processando alelo: DPA1*01:05 com valor: 91.38
+Processando alelo: DPB1*03:01 com valor: 91.38
+Processando alelo: DPA1*02:01 com valor: 12649.75
+Processando alelo: DPB1*03:01 com valor: 12649.75
+Processando alelo: DPA1*01:03 com valor: 5187.58
+Processando alelo: DPB1*04:01 com valor: 5187.58
+Processando alelo: DPA1*01:03 com valor: 69.65
+Processando alelo: DPB1*04:02 com valor: 69.65
+Processando alelo: DPA1*02:01 com valor: 13776.08
+Processando alelo: DPB1*05:01 com valor: 13776.08
+Processando alelo: DPA1*02:01 com valor: 111.84
+Processando alelo: DPB1*06:01 com valor: 111.84
+Processando alelo: DPA1*01:03 com valor: 68.38
+Processando alelo: DPB1*06:01 com valor: 68.38
+Processando alelo: DPA1*02:01 com valor: 11572.04
+Processando alelo: DPB1*09:01 com valor: 11572.04
+Processando alelo: DPA1*02:02 com valor: 10374.94
+Processando alelo: DPB1*10:01 com valor: 10374.94
+Processando alelo: DPA1*01:03 com valor: 6566.4
+Processando alelo: DPB1*11:01 com valor: 6566.4
+Processando alelo: DPA1*01:03 com valor: 66.41
+Processando alelo: DPB1*28:01 com valor: 66.41
+Processando alelo: DPA1*02:01 com valor: 123.12
+Processando alelo: DPB1*13:01 com valor: 123.12
+Processando alelo: DPA1*02:02 com valor: 13668.51
+Processando alelo: DPB1*13:01 com valor: 13668.51
+Processando alelo: DPA1*03:01 com valor: 4562.29
+Processando alelo: DPB1*13:01 com valor: 4562.29
+Processando alelo: DPA1*02:01 com valor: 11056.16
+Processando alelo: DPB1*14:01 com valor: 11056.16
+Processando alelo: DPA1*02:01 com valor: 7204.28
+Processando alelo: DPB1*15:01 com valor: 7204.28
+Processando alelo: DPA1*02:01 com valor: 10419.69
+Processando alelo: DPB1*17:01 com valor: 10419.69
+Processando alelo: DPA1*02:01 com valor: 10379.46
+Processando alelo: DPB1*18:01 com valor: 10379.46
+Processando alelo: DPA1*01:05 com valor: 123.26
+Processando alelo: DPB1*18:01 com valor: 123.26
+Processando alelo: DPA1*01:04 com valor: 107.91
+Processando alelo: DPB1*18:01 com valor: 107.91
+Processando alelo: DPA1*01:03 com valor: 6857.89
+Processando alelo: DPB1*19:01 com valor: 6857.89
+Processando alelo: DPA1*03:01 com valor: 162.46
+Processando alelo: DPB1*20:01 com valor: 162.46
+Processando alelo: DPA1*01:03 com valor: 4038.75
+Processando alelo: DPB1*23:01 com valor: 4038.75
+Processando alelo: DPA1*01:05 com valor: 174.52
+Processando alelo: DPB1*28:01 com valor: 174.52
+Processando alelo: DPA1*04:01 com valor: 2192.1
+Processando alelo: DPB1*28:01 com valor: 2192.1
+Processando alelo: DPA1*02:02 com valor: 11695.34
+Processando alelo: DPB1*11:01 com valor: 11695.34
+Processando alelo: A*01:01 com valor: 310.47
+Processando alelo: A*02:01 com valor: 32.31
+Processando alelo: A*02:03 com valor: 32.17
+Processando alelo: A*02:06 com valor: 74.28
+Processando alelo: A*03:01 com valor: 9419.2
+Processando alelo: A*11:01 com valor: 3820.44
+Processando alelo: A*11:02 com valor: 3001.49
+Processando alelo: A*23:01 com valor: 11598.97
+Processando alelo: A*24:02 com valor: 928.63
+Processando alelo: A*24:03 com valor: 2248.91
+Processando alelo: A*25:01 com valor: 5995.58
+Processando alelo: A*26:01 com valor: 7195.62
+Processando alelo: A*29:01 com valor: 6727.17
+Processando alelo: B*27:05 com valor: 856.58
+Processando alelo: A*29:02 com valor: 6016.05
+Processando alelo: A*30:01 com valor: 121.8
+Processando alelo: A*30:02 com valor: 13039.91
+Processando alelo: A*31:01 com valor: 117.69
+Processando alelo: A*32:01 com valor: 7592.72
+Processando alelo: A*33:01 com valor: 902.07
+Processando alelo: A*34:01 com valor: 13946.82
+Processando alelo: A*34:02 com valor: 7951.69
+Processando alelo: A*36:01 com valor: 123.87
+Processando alelo: A*43:01 com valor: 12772.34
+Processando alelo: A*66:01 com valor: 119.65
+Processando alelo: A*66:02 com valor: 5424.87
+Processando alelo: A*68:01 com valor: 9977.58
+Processando alelo: A*68:02 com valor: 1249.66
+Processando alelo: A*69:01 com valor: 11070.91
+Processando alelo: A*74:01 com valor: 7746.79
+Processando alelo: A*80:01 com valor: 7818.95
+Processando alelo: B*07:02 com valor: 99.28
+Processando alelo: B*08:01 com valor: 10973.49
+Processando alelo: B*13:02 com valor: 12325.63
+Processando alelo: B*14:01 com valor: 10600.74
+Processando alelo: B*14:02 com valor: 158.39
+Processando alelo: B*15:01 com valor: 2538.74
+Processando alelo: B*15:02 com valor: 4883.02
+Processando alelo: B*15:03 com valor: 2323.32
+Processando alelo: B*15:10 com valor: 8051.08
+Processando alelo: B*15:12 com valor: 4195.78
+Processando alelo: B*15:13 com valor: 5520.02
+Processando alelo: B*15:16 com valor: 8757.57
+Processando alelo: B*18:01 com valor: 4141.39
+Processando alelo: B*27:08 com valor: 841.25
+Processando alelo: B*35:01 com valor: 4697.5
+Processando alelo: B*37:01 com valor: 9638.33
+Processando alelo: B*38:01 com valor: 4875.3
+Processando alelo: B*39:01 com valor: 112.69
+Processando alelo: B*40:01 com valor: 1758.86
+Processando alelo: B*40:02 com valor: 10.5
+Processando alelo: B*41:01 com valor: 152.57
+Processando alelo: B*42:01 com valor: 1413.51
+Processando alelo: B*44:02 com valor: 15065.54
+Processando alelo: B*44:03 com valor: 130.23
+Processando alelo: B*45:01 com valor: 9790.14
+Processando alelo: B*49:01 com valor: 3995.98
+Processando alelo: B*47:01 com valor: 12076.4
+Processando alelo: B*48:01 com valor: 96.64
+Processando alelo: B*46:01 com valor: 7715.15
+Processando alelo: B*50:01 com valor: 56.19
+Processando alelo: B*51:01 com valor: 3186.2
+Processando alelo: B*51:02 com valor: 4255.23
+Processando alelo: B*52:01 com valor: 6662.46
+Processando alelo: B*53:01 com valor: 5217.43
+Processando alelo: B*54:01 com valor: 15765.95
+Processando alelo: B*55:01 com valor: 3189.35
+Processando alelo: B*56:01 com valor: 6879.56
+Processando alelo: B*57:01 com valor: 99.83
+Processando alelo: B*57:03 com valor: 193.71
+Processando alelo: B*58:01 com valor: 3811.94
+Processando alelo: B*59:01 com valor: 9169.72
+Processando alelo: B*67:01 com valor: 606.61
+Processando alelo: B*73:01 com valor: 12859.94
+Processando alelo: B*78:01 com valor: 4345.4
+Processando alelo: B*81:01 com valor: 5400.14
+Processando alelo: B*82:01 com valor: 198.81
+Processando alelo: C*01:02 com valor: 1758.25
+Processando alelo: C*02:02 com valor: 194.6
+Processando alelo: C*03:02 com valor: 9281.48
+Processando alelo: C*03:03 com valor: 8640.05
+Processando alelo: C*03:04 com valor: 12024.8
+Processando alelo: C*04:01 com valor: 209.3
+Processando alelo: C*05:01 com valor: 167.35
+Processando alelo: C*06:02 com valor: 173.36
+Processando alelo: C*07:02 com valor: 208.26
+Processando alelo: C*08:01 com valor: 1204.45
+Processando alelo: C*12:03 com valor: 231.36
+Processando alelo: C*14:02 com valor: 265.87
+Processando alelo: C*15:02 com valor: 12993.46
+Processando alelo: C*16:01 com valor: 13438.43
+Processando alelo: C*17:01 com valor: 376.53
+Processando alelo: C*18:02 com valor: 232.57
+Processando alelo: B*13:01 com valor: 10988.18
+Processando alelo: B*15:11 com valor: 5360.27
+Processando alelo: B*40:06 com valor: 17643.62
+Processando alelo: A*33:03 com valor: 9493.46
+Processando alelo: DRB1*01:01 com valor: 11964.41
+Processando alelo: DRB1*01:02 com valor: 13554.0
+Processando alelo: DRB1*01:03 com valor: 23.32
+Processando alelo: DRB1*03:01 com valor: 157.35
+Processando alelo: DRB1*03:02 com valor: 210.67
+Processando alelo: DRB1*04:01 com valor: 19586.13
+Processando alelo: DRB1*04:02 com valor: 4052.25
+Processando alelo: DRB1*04:04 com valor: 21176.8
+Processando alelo: DRB1*04:05 com valor: 179.63
+Processando alelo: DRB1*07:01 com valor: 14746.13
+Processando alelo: DRB1*04:03 com valor: 9234.63
+Processando alelo: DRB1*08:01 com valor: 103.99
+Processando alelo: DRB1*09:01 com valor: 226.35
+Processando alelo: DRB1*09:02 com valor: 22749.25
+Processando alelo: DRB1*10:01 com valor: 17971.53
+Processando alelo: DRB1*11:01 com valor: 139.12
+Processando alelo: DRB1*11:04 com valor: 98.7
+Processando alelo: DRB1*12:01 com valor: 172.82
+Processando alelo: DRB1*12:02 com valor: 125.73
+Processando alelo: DRB1*13:01 com valor: 214.04
+Processando alelo: DRB1*13:03 com valor: 63.82
+Processando alelo: DRB1*14:01 com valor: 7875.52
+Processando alelo: DRB1*14:02 com valor: 199.39
+Processando alelo: DRB1*14:54 com valor: 7984.98
+Processando alelo: DRB1*15:01 com valor: 2799.77
+Processando alelo: DRB1*15:02 com valor: 2700.73
+Processando alelo: DRB1*15:03 com valor: 386.56
+Processando alelo: DRB1*16:01 com valor: 256.7
+Processando alelo: DRB1*16:02 com valor: 261.35
+Processando alelo: DRB3*01:01 com valor: 153.61
+Processando alelo: DRB3*02:02 com valor: 78.57
+Processando alelo: DRB3*03:01 com valor: 70.09
+Processando alelo: DRB4*01:01 com valor: 18502.08
+Processando alelo: DRB4*01:03 com valor: 15860.21
+Processando alelo: DRB5*01:01 com valor: 23557.0
+Processando alelo: DRB5*02:02 com valor: 22968.43
+Processando alelo: DQA1*02:01 com valor: 125.06
+Processando alelo: DQB1*02:01 com valor: 125.06
+Processando alelo: DQA1*03:01 com valor: 14980.46
+Processando alelo: DQB1*02:01 com valor: 14980.46
+Processando alelo: DQA1*04:01 com valor: 127.71
+Processando alelo: DQB1*02:01 com valor: 127.71
+Processando alelo: DQA1*05:01 com valor: 204.9
+Processando alelo: DQB1*02:01 com valor: 204.9
+Processando alelo: DQA1*02:01 com valor: 12349.42
+Processando alelo: DQB1*02:02 com valor: 12349.42
+Processando alelo: DQA1*02:01 com valor: 829.17
+Processando alelo: DQB1*04:01 com valor: 829.17
+Processando alelo: DQA1*03:03 com valor: 502.08
+Processando alelo: DQB1*04:01 com valor: 502.08
+Processando alelo: DQA1*02:01 com valor: 1332.49
+Processando alelo: DQB1*04:02 com valor: 1332.49
+Processando alelo: DQA1*04:01 com valor: 336.36
+Processando alelo: DQB1*04:02 com valor: 336.36
+Processando alelo: DQA1*01:01 com valor: 13928.34
+Processando alelo: DQB1*05:01 com valor: 13928.34
+Processando alelo: DQA1*01:02 com valor: 6828.76
+Processando alelo: DQB1*05:02 com valor: 6828.76
+Processando alelo: DQA1*01:03 com valor: 207.91
+Processando alelo: DQB1*06:01 com valor: 207.91
+Processando alelo: DQA1*01:02 com valor: 638.53
+Processando alelo: DQB1*06:02 com valor: 638.53
+Processando alelo: DQA1*01:01 com valor: 1036.67
+Processando alelo: DQB1*06:02 com valor: 1036.67
+Processando alelo: DQA1*01:03 com valor: 1917.91
+Processando alelo: DQB1*06:03 com valor: 1917.91
+Processando alelo: DQA1*01:02 com valor: 128.52
+Processando alelo: DQB1*06:04 com valor: 128.52
+Processando alelo: DQA1*01:02 com valor: 65.89
+Processando alelo: DQB1*06:09 com valor: 65.89
+Processando alelo: DQA1*03:01 com valor: 131.66
+Processando alelo: DQB1*03:01 com valor: 131.66
+Processando alelo: DQA1*02:01 com valor: 50.0
+Processando alelo: DQB1*03:01 com valor: 50.0
+Processando alelo: DQA1*05:03 com valor: 92.28
+Processando alelo: DQB1*03:01 com valor: 92.28
+Processando alelo: DQA1*05:05 com valor: 28.79
+Processando alelo: DQB1*03:19 com valor: 28.79
+Processando alelo: DQA1*06:01 com valor: 38.09
+Processando alelo: DQB1*03:01 com valor: 38.09
+Processando alelo: DQA1*02:01 com valor: 91.48
+Processando alelo: DQB1*03:02 com valor: 91.48
+Processando alelo: DQA1*03:01 com valor: 184.12
+Processando alelo: DQB1*03:02 com valor: 184.12
+Processando alelo: DQA1*03:02 com valor: 251.36
+Processando alelo: DQB1*03:02 com valor: 251.36
+Processando alelo: DQA1*02:01 com valor: 82.5
+Processando alelo: DQB1*03:03 com valor: 82.5
+Processando alelo: DQA1*03:01 com valor: 108.64
+Processando alelo: DQB1*03:03 com valor: 108.64
+Processando alelo: DQA1*03:02 com valor: 551.84
+Processando alelo: DQB1*03:03 com valor: 551.84
+Processando alelo: DPA1*01:03 com valor: 6155.88
+Processando alelo: DPB1*01:01 com valor: 6155.88
+Processando alelo: DPA1*02:01 com valor: 13212.9
+Processando alelo: DPB1*01:01 com valor: 13212.9
+Processando alelo: DPA1*01:03 com valor: 126.93
+Processando alelo: DPB1*02:01 com valor: 126.93
+Processando alelo: DPA1*02:02 com valor: 142.19
+Processando alelo: DPB1*05:01 com valor: 142.19
+Processando alelo: DPA1*01:03 com valor: 94.76
+Processando alelo: DPB1*03:01 com valor: 94.76
+Processando alelo: DPA1*01:05 com valor: 91.38
+Processando alelo: DPB1*03:01 com valor: 91.38
+Processando alelo: DPA1*02:01 com valor: 12649.75
+Processando alelo: DPB1*03:01 com valor: 12649.75
+Processando alelo: DPA1*01:03 com valor: 5187.58
+Processando alelo: DPB1*04:01 com valor: 5187.58
+Processando alelo: DPA1*01:03 com valor: 69.65
+Processando alelo: DPB1*04:02 com valor: 69.65
+Processando alelo: DPA1*02:01 com valor: 13776.08
+Processando alelo: DPB1*05:01 com valor: 13776.08
+Processando alelo: DPA1*02:01 com valor: 111.84
+Processando alelo: DPB1*06:01 com valor: 111.84
+Processando alelo: DPA1*01:03 com valor: 68.38
+Processando alelo: DPB1*06:01 com valor: 68.38
+Processando alelo: DPA1*02:01 com valor: 11572.04
+Processando alelo: DPB1*09:01 com valor: 11572.04
+Processando alelo: DPA1*02:02 com valor: 10374.94
+Processando alelo: DPB1*10:01 com valor: 10374.94
+Processando alelo: DPA1*01:03 com valor: 6566.4
+Processando alelo: DPB1*11:01 com valor: 6566.4
+Processando alelo: DPA1*01:03 com valor: 66.41
+Processando alelo: DPB1*28:01 com valor: 66.41
+Processando alelo: DPA1*02:01 com valor: 123.12
+Processando alelo: DPB1*13:01 com valor: 123.12
+Processando alelo: DPA1*02:02 com valor: 13668.51
+Processando alelo: DPB1*13:01 com valor: 13668.51
+Processando alelo: DPA1*03:01 com valor: 4562.29
+Processando alelo: DPB1*13:01 com valor: 4562.29
+Processando alelo: DPA1*02:01 com valor: 11056.16
+Processando alelo: DPB1*14:01 com valor: 11056.16
+Processando alelo: DPA1*02:01 com valor: 7204.28
+Processando alelo: DPB1*15:01 com valor: 7204.28
+Processando alelo: DPA1*02:01 com valor: 10419.69
+Processando alelo: DPB1*17:01 com valor: 10419.69
+Processando alelo: DPA1*02:01 com valor: 10379.46
+Processando alelo: DPB1*18:01 com valor: 10379.46
+Processando alelo: DPA1*01:05 com valor: 123.26
+Processando alelo: DPB1*18:01 com valor: 123.26
+Processando alelo: DPA1*01:04 com valor: 107.91
+Processando alelo: DPB1*18:01 com valor: 107.91
+Processando alelo: DPA1*01:03 com valor: 6857.89
+Processando alelo: DPB1*19:01 com valor: 6857.89
+Processando alelo: DPA1*03:01 com valor: 162.46
+Processando alelo: DPB1*20:01 com valor: 162.46
+Processando alelo: DPA1*01:03 com valor: 4038.75
+Processando alelo: DPB1*23:01 com valor: 4038.75
+Processando alelo: DPA1*01:05 com valor: 174.52
+Processando alelo: DPB1*28:01 com valor: 174.52
+Processando alelo: DPA1*04:01 com valor: 2192.1
+Processando alelo: DPB1*28:01 com valor: 2192.1
+Processando alelo: DPA1*02:02 com valor: 11695.34
+Processando alelo: DPB1*11:01 com valor: 11695.34
+Payload recebido: {"donor_name": "Melissa Kunst", "donor_sex": "Feminino", "donor_birth_date": "2000-02-09", "donor_blood_type": "O-", "alelos": [{"tipo": "A", "numero": "2"}, {"tipo": "A", "numero": "99"}, {"tipo": "B", "numero": "66"}, {"tipo": "B", "numero": "8"}, {"tipo": "C", "numero": "7"}, {"tipo": "C", "numero": "76"}, {"tipo": "DR", "numero": "45"}, {"tipo": "DR", "numero": "5"}, {"tipo": "DQ", "numero": "78"}, {"tipo": "DQ", "numero": "44"}]}
+Tipo sanguíneo do doador: O-
+Pacientes com tipo sanguíneo compatível: [{'id': 10, 'nome': 'Alex Karev', 'tipo_sanguineo': 'O-'}, {'id': 11, 'nome': 'Arizona Robins', 'tipo_sanguineo': 'O-'}, {'id': 13, 'nome': 'Luiz Almeida', 'tipo_sanguineo': 'O-'}]
+Compatibilidade dos pacientes: {10: {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'A*66:01', 'valor': 11239.65, 'compatibilidade': False}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*44:02', 'valor': 15065.54, 'compatibilidade': False}, {'nome': 'B*44:03', 'valor': 13067.23, 'compatibilidade': False}, {'nome': 'B*45:01', 'valor': 9790.14, 'compatibilidade': False}, {'nome': 'B*78:01', 'valor': 4345.4, 'compatibilidade': False}, {'nome': 'C*02:02', 'valor': 19475.6, 'compatibilidade': False}, {'nome': 'C*05:01', 'valor': 16726.35, 'compatibilidade': False}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 12046.45, 'compatibilidade': False}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 12514.06, 'compatibilidade': False}, {'nome': 'DQB1*02:01', 'valor': 12514.06, 'compatibilidade': False}, {'nome': 'DQB1*02:01.4', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.5', 'valor': 12780.71, 'compatibilidade': False}, {'nome': 'DQA1*05:01', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQB1*02:01.6', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQA1*02:01.7', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.8', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.9', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*02:01.10', 'valor': 50.0, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*02:01.11', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.12', 'valor': 82.5, 'compatibilidade': True}]}, 11: {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'A*66:01', 'valor': 11239.65, 'compatibilidade': False}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*44:02', 'valor': 15065.54, 'compatibilidade': False}, {'nome': 'B*44:03', 'valor': 130.23, 'compatibilidade': True}, {'nome': 'B*45:01', 'valor': 9790.14, 'compatibilidade': False}, {'nome': 'B*78:01', 'valor': 4345.4, 'compatibilidade': False}, {'nome': 'C*02:02', 'valor': 194.6, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 1204.45, 'compatibilidade': False}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01.7', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.8', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*02:01.9', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQA1*02:01.13', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.14', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.15', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*02:01.16', 'valor': 50.0, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*02:01.17', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.18', 'valor': 82.5, 'compatibilidade': True}]}, 13: {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'A*66:01', 'valor': 119.65, 'compatibilidade': True}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 99.28, 'compatibilidade': True}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*44:02', 'valor': 15065.54, 'compatibilidade': False}, {'nome': 'B*44:03', 'valor': 130.23, 'compatibilidade': True}, {'nome': 'B*45:01', 'valor': 9790.14, 'compatibilidade': False}, {'nome': 'B*78:01', 'valor': 4345.4, 'compatibilidade': False}, {'nome': 'C*02:02', 'valor': 194.6, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 1204.45, 'compatibilidade': False}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01.13', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.14', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*02:01.15', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQA1*02:01.25', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.26', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.27', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*02:01.28', 'valor': 50.0, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*02:01.29', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.30', 'valor': 82.5, 'compatibilidade': True}]}}
+Dados recebidos no backend: {'donor_name': 'Melissa Kunst', 'donor_sex': 'Feminino', 'donor_birth_date': '2000-02-09', 'donor_blood_type': 'O-', 'results': {'10': {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'A*66:01', 'valor': 11239.65, 'compatibilidade': False}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*44:02', 'valor': 15065.54, 'compatibilidade': False}, {'nome': 'B*44:03', 'valor': 13067.23, 'compatibilidade': False}, {'nome': 'B*45:01', 'valor': 9790.14, 'compatibilidade': False}, {'nome': 'B*78:01', 'valor': 4345.4, 'compatibilidade': False}, {'nome': 'C*02:02', 'valor': 19475.6, 'compatibilidade': False}, {'nome': 'C*05:01', 'valor': 16726.35, 'compatibilidade': False}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 12046.45, 'compatibilidade': False}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 12514.06, 'compatibilidade': False}, {'nome': 'DQB1*02:01', 'valor': 12514.06, 'compatibilidade': False}, {'nome': 'DQB1*02:01.4', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.5', 'valor': 12780.71, 'compatibilidade': False}, {'nome': 'DQA1*05:01', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQB1*02:01.6', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQA1*02:01.7', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.8', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.9', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*02:01.10', 'valor': 50, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*02:01.11', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.12', 'valor': 82.5, 'compatibilidade': True}]}, '11': {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'A*66:01', 'valor': 11239.65, 'compatibilidade': False}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*44:02', 'valor': 15065.54, 'compatibilidade': False}, {'nome': 'B*44:03', 'valor': 130.23, 'compatibilidade': True}, {'nome': 'B*45:01', 'valor': 9790.14, 'compatibilidade': False}, {'nome': 'B*78:01', 'valor': 4345.4, 'compatibilidade': False}, {'nome': 'C*02:02', 'valor': 194.6, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 1204.45, 'compatibilidade': False}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01.7', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.8', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*02:01.9', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQA1*02:01.13', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.14', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.15', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*02:01.16', 'valor': 50, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*02:01.17', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.18', 'valor': 82.5, 'compatibilidade': True}]}, '13': {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'A*66:01', 'valor': 119.65, 'compatibilidade': True}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 99.28, 'compatibilidade': True}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*44:02', 'valor': 15065.54, 'compatibilidade': False}, {'nome': 'B*44:03', 'valor': 130.23, 'compatibilidade': True}, {'nome': 'B*45:01', 'valor': 9790.14, 'compatibilidade': False}, {'nome': 'B*78:01', 'valor': 4345.4, 'compatibilidade': False}, {'nome': 'C*02:02', 'valor': 194.6, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 1204.45, 'compatibilidade': False}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01.13', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.14', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*02:01.15', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQA1*02:01.25', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.26', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.27', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*02:01.28', 'valor': 50, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*02:01.29', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.30', 'valor': 82.5, 'compatibilidade': True}]}}}
+Crossmatch criado com ID: 23
+Processando paciente ID: 10, Nome: Alex Karev
+Resultado do paciente criado com ID: 51, Total Compatível: 12, Total Incompatível: 24
+Salvando alelo: Nome: A*02:01, Valor: 32.31, Compatibilidade: True
+Alelo salvo com sucesso: A*02:01
+Salvando alelo: Nome: A*02:03, Valor: 32.17, Compatibilidade: True
+Alelo salvo com sucesso: A*02:03
+Salvando alelo: Nome: A*02:06, Valor: 74.28, Compatibilidade: True
+Alelo salvo com sucesso: A*02:06
+Salvando alelo: Nome: A*66:01, Valor: 11239.65, Compatibilidade: False
+Alelo salvo com sucesso: A*66:01
+Salvando alelo: Nome: A*66:02, Valor: 5424.87, Compatibilidade: False
+Alelo salvo com sucesso: A*66:02
+Salvando alelo: Nome: B*07:02, Valor: 9923.28, Compatibilidade: False
+Alelo salvo com sucesso: B*07:02
+Salvando alelo: Nome: B*08:01, Valor: 10973.49, Compatibilidade: False
+Alelo salvo com sucesso: B*08:01
+Salvando alelo: Nome: B*44:02, Valor: 15065.54, Compatibilidade: False
+Alelo salvo com sucesso: B*44:02
+Salvando alelo: Nome: B*44:03, Valor: 13067.23, Compatibilidade: False
+Alelo salvo com sucesso: B*44:03
+Salvando alelo: Nome: B*45:01, Valor: 9790.14, Compatibilidade: False
+Alelo salvo com sucesso: B*45:01
+Salvando alelo: Nome: B*78:01, Valor: 4345.4, Compatibilidade: False
+Alelo salvo com sucesso: B*78:01
+Salvando alelo: Nome: C*02:02, Valor: 19475.6, Compatibilidade: False
+Alelo salvo com sucesso: C*02:02
+Salvando alelo: Nome: C*05:01, Valor: 16726.35, Compatibilidade: False
+Alelo salvo com sucesso: C*05:01
+Salvando alelo: Nome: C*07:02, Valor: 208.26, Compatibilidade: True
+Alelo salvo com sucesso: C*07:02
+Salvando alelo: Nome: C*08:01, Valor: 12046.45, Compatibilidade: False
+Alelo salvo com sucesso: C*08:01
+Salvando alelo: Nome: DRB1*07:01, Valor: 14746.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*07:01
+Salvando alelo: Nome: DRB1*08:01, Valor: 103.99, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*08:01
+Salvando alelo: Nome: DRB3*02:02, Valor: 78.57, Compatibilidade: True
+Alelo salvo com sucesso: DRB3*02:02
+Salvando alelo: Nome: DRB5*02:02, Valor: 22968.43, Compatibilidade: False
+Alelo salvo com sucesso: DRB5*02:02
+Salvando alelo: Nome: DQA1*02:01, Valor: 12514.06, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01
+Salvando alelo: Nome: DQB1*02:01, Valor: 12514.06, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01
+Salvando alelo: Nome: DQB1*02:01.4, Valor: 14980.46, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01.4
+Salvando alelo: Nome: DQB1*02:01.5, Valor: 12780.71, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01.5
+Salvando alelo: Nome: DQA1*05:01, Valor: 20497.9, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*05:01
+Salvando alelo: Nome: DQB1*02:01.6, Valor: 20497.9, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01.6
+Salvando alelo: Nome: DQA1*02:01.7, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.7
+Salvando alelo: Nome: DQB1*02:02, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:02
+Salvando alelo: Nome: DQA1*02:01.8, Valor: 829.17, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.8
+Salvando alelo: Nome: DQA1*02:01.9, Valor: 1332.49, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.9
+Salvando alelo: Nome: DQB1*05:01, Valor: 13928.34, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:01
+Salvando alelo: Nome: DQB1*05:02, Valor: 6828.76, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:02
+Salvando alelo: Nome: DQA1*02:01.10, Valor: 50, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.10
+Salvando alelo: Nome: DQA1*05:03, Valor: 92.28, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:03
+Salvando alelo: Nome: DQA1*05:05, Valor: 28.79, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:05
+Salvando alelo: Nome: DQA1*02:01.11, Valor: 91.48, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.11
+Salvando alelo: Nome: DQA1*02:01.12, Valor: 82.5, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.12
+Processando paciente ID: 11, Nome: Arizona Robins
+Resultado do paciente criado com ID: 52, Total Compatível: 20, Total Incompatível: 16
+Salvando alelo: Nome: A*02:01, Valor: 32.31, Compatibilidade: True
+Alelo salvo com sucesso: A*02:01
+Salvando alelo: Nome: A*02:03, Valor: 32.17, Compatibilidade: True
+Alelo salvo com sucesso: A*02:03
+Salvando alelo: Nome: A*02:06, Valor: 74.28, Compatibilidade: True
+Alelo salvo com sucesso: A*02:06
+Salvando alelo: Nome: A*66:01, Valor: 11239.65, Compatibilidade: False
+Alelo salvo com sucesso: A*66:01
+Salvando alelo: Nome: A*66:02, Valor: 5424.87, Compatibilidade: False
+Alelo salvo com sucesso: A*66:02
+Salvando alelo: Nome: B*07:02, Valor: 9923.28, Compatibilidade: False
+Alelo salvo com sucesso: B*07:02
+Salvando alelo: Nome: B*08:01, Valor: 10973.49, Compatibilidade: False
+Alelo salvo com sucesso: B*08:01
+Salvando alelo: Nome: B*44:02, Valor: 15065.54, Compatibilidade: False
+Alelo salvo com sucesso: B*44:02
+Salvando alelo: Nome: B*44:03, Valor: 130.23, Compatibilidade: True
+Alelo salvo com sucesso: B*44:03
+Salvando alelo: Nome: B*45:01, Valor: 9790.14, Compatibilidade: False
+Alelo salvo com sucesso: B*45:01
+Salvando alelo: Nome: B*78:01, Valor: 4345.4, Compatibilidade: False
+Alelo salvo com sucesso: B*78:01
+Salvando alelo: Nome: C*02:02, Valor: 194.6, Compatibilidade: True
+Alelo salvo com sucesso: C*02:02
+Salvando alelo: Nome: C*05:01, Valor: 167.35, Compatibilidade: True
+Alelo salvo com sucesso: C*05:01
+Salvando alelo: Nome: C*07:02, Valor: 208.26, Compatibilidade: True
+Alelo salvo com sucesso: C*07:02
+Salvando alelo: Nome: C*08:01, Valor: 1204.45, Compatibilidade: False
+Alelo salvo com sucesso: C*08:01
+Salvando alelo: Nome: DRB1*07:01, Valor: 14746.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*07:01
+Salvando alelo: Nome: DRB1*08:01, Valor: 103.99, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*08:01
+Salvando alelo: Nome: DRB3*02:02, Valor: 78.57, Compatibilidade: True
+Alelo salvo com sucesso: DRB3*02:02
+Salvando alelo: Nome: DRB5*02:02, Valor: 22968.43, Compatibilidade: False
+Alelo salvo com sucesso: DRB5*02:02
+Salvando alelo: Nome: DQA1*02:01, Valor: 125.06, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01
+Salvando alelo: Nome: DQB1*02:01, Valor: 125.06, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01
+Salvando alelo: Nome: DQB1*02:01.7, Valor: 14980.46, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01.7
+Salvando alelo: Nome: DQB1*02:01.8, Valor: 127.71, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01.8
+Salvando alelo: Nome: DQA1*05:01, Valor: 204.9, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:01
+Salvando alelo: Nome: DQB1*02:01.9, Valor: 204.9, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01.9
+Salvando alelo: Nome: DQA1*02:01.13, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.13
+Salvando alelo: Nome: DQB1*02:02, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:02
+Salvando alelo: Nome: DQA1*02:01.14, Valor: 829.17, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.14
+Salvando alelo: Nome: DQA1*02:01.15, Valor: 1332.49, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.15
+Salvando alelo: Nome: DQB1*05:01, Valor: 13928.34, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:01
+Salvando alelo: Nome: DQB1*05:02, Valor: 6828.76, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:02
+Salvando alelo: Nome: DQA1*02:01.16, Valor: 50, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.16
+Salvando alelo: Nome: DQA1*05:03, Valor: 92.28, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:03
+Salvando alelo: Nome: DQA1*05:05, Valor: 28.79, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:05
+Salvando alelo: Nome: DQA1*02:01.17, Valor: 91.48, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.17
+Salvando alelo: Nome: DQA1*02:01.18, Valor: 82.5, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.18
+Processando paciente ID: 13, Nome: Luiz Almeida
+Resultado do paciente criado com ID: 53, Total Compatível: 22, Total Incompatível: 14
+Salvando alelo: Nome: A*02:01, Valor: 32.31, Compatibilidade: True
+Alelo salvo com sucesso: A*02:01
+Salvando alelo: Nome: A*02:03, Valor: 32.17, Compatibilidade: True
+Alelo salvo com sucesso: A*02:03
+Salvando alelo: Nome: A*02:06, Valor: 74.28, Compatibilidade: True
+Alelo salvo com sucesso: A*02:06
+Salvando alelo: Nome: A*66:01, Valor: 119.65, Compatibilidade: True
+Alelo salvo com sucesso: A*66:01
+Salvando alelo: Nome: A*66:02, Valor: 5424.87, Compatibilidade: False
+Alelo salvo com sucesso: A*66:02
+Salvando alelo: Nome: B*07:02, Valor: 99.28, Compatibilidade: True
+Alelo salvo com sucesso: B*07:02
+Salvando alelo: Nome: B*08:01, Valor: 10973.49, Compatibilidade: False
+Alelo salvo com sucesso: B*08:01
+Salvando alelo: Nome: B*44:02, Valor: 15065.54, Compatibilidade: False
+Alelo salvo com sucesso: B*44:02
+Salvando alelo: Nome: B*44:03, Valor: 130.23, Compatibilidade: True
+Alelo salvo com sucesso: B*44:03
+Salvando alelo: Nome: B*45:01, Valor: 9790.14, Compatibilidade: False
+Alelo salvo com sucesso: B*45:01
+Salvando alelo: Nome: B*78:01, Valor: 4345.4, Compatibilidade: False
+Alelo salvo com sucesso: B*78:01
+Salvando alelo: Nome: C*02:02, Valor: 194.6, Compatibilidade: True
+Alelo salvo com sucesso: C*02:02
+Salvando alelo: Nome: C*05:01, Valor: 167.35, Compatibilidade: True
+Alelo salvo com sucesso: C*05:01
+Salvando alelo: Nome: C*07:02, Valor: 208.26, Compatibilidade: True
+Alelo salvo com sucesso: C*07:02
+Salvando alelo: Nome: C*08:01, Valor: 1204.45, Compatibilidade: False
+Alelo salvo com sucesso: C*08:01
+Salvando alelo: Nome: DRB1*07:01, Valor: 14746.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*07:01
+Salvando alelo: Nome: DRB1*08:01, Valor: 103.99, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*08:01
+Salvando alelo: Nome: DRB3*02:02, Valor: 78.57, Compatibilidade: True
+Alelo salvo com sucesso: DRB3*02:02
+Salvando alelo: Nome: DRB5*02:02, Valor: 22968.43, Compatibilidade: False
+Alelo salvo com sucesso: DRB5*02:02
+Salvando alelo: Nome: DQA1*02:01, Valor: 125.06, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01
+Salvando alelo: Nome: DQB1*02:01, Valor: 125.06, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01
+Salvando alelo: Nome: DQB1*02:01.13, Valor: 14980.46, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01.13
+Salvando alelo: Nome: DQB1*02:01.14, Valor: 127.71, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01.14
+Salvando alelo: Nome: DQA1*05:01, Valor: 204.9, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:01
+Salvando alelo: Nome: DQB1*02:01.15, Valor: 204.9, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01.15
+Salvando alelo: Nome: DQA1*02:01.25, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.25
+Salvando alelo: Nome: DQB1*02:02, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:02
+Salvando alelo: Nome: DQA1*02:01.26, Valor: 829.17, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.26
+Salvando alelo: Nome: DQA1*02:01.27, Valor: 1332.49, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.27
+Salvando alelo: Nome: DQB1*05:01, Valor: 13928.34, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:01
+Salvando alelo: Nome: DQB1*05:02, Valor: 6828.76, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:02
+Salvando alelo: Nome: DQA1*02:01.28, Valor: 50, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.28
+Salvando alelo: Nome: DQA1*05:03, Valor: 92.28, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:03
+Salvando alelo: Nome: DQA1*05:05, Valor: 28.79, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:05
+Salvando alelo: Nome: DQA1*02:01.29, Valor: 91.48, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.29
+Salvando alelo: Nome: DQA1*02:01.30, Valor: 82.5, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.30
+Crossmatch processado com sucesso.
+Payload recebido: {"donor_name": "Melissa K", "donor_sex": "Feminino", "donor_birth_date": "2000-02-09", "donor_blood_type": "O-", "alelos": [{"tipo": "A", "numero": "7"}, {"tipo": "A", "numero": "08"}, {"tipo": "B", "numero": "99"}, {"tipo": "B", "numero": "87"}, {"tipo": "C", "numero": "87"}, {"tipo": "C", "numero": "6"}, {"tipo": "DR", "numero": "55"}, {"tipo": "DR", "numero": "5"}, {"tipo": "DQ", "numero": "66"}, {"tipo": "DQ", "numero": "4"}]}
+Tipo sanguíneo do doador: O-
+Pacientes com tipo sanguíneo compatível: [{'id': 10, 'nome': 'Alex Karev', 'tipo_sanguineo': 'O-'}, {'id': 11, 'nome': 'Arizona Robins', 'tipo_sanguineo': 'O-'}, {'id': 13, 'nome': 'Luiz Almeida', 'tipo_sanguineo': 'O-'}]
+Compatibilidade dos pacientes: {10: {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'A*66:01', 'valor': 11239.65, 'compatibilidade': False}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*04:01', 'valor': 209.3, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 16726.35, 'compatibilidade': False}, {'nome': 'C*06:02', 'valor': 173.36, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 12046.45, 'compatibilidade': False}, {'nome': 'DRB1*04:01', 'valor': 19586.13, 'compatibilidade': False}, {'nome': 'DRB1*04:02', 'valor': 4052.25, 'compatibilidade': False}, {'nome': 'DRB1*04:04', 'valor': 21176.8, 'compatibilidade': False}, {'nome': 'DRB1*04:05', 'valor': 17911.63, 'compatibilidade': False}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*04:03', 'valor': 9234.63, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DQA1*04:01', 'valor': 12780.71, 'compatibilidade': False}, {'nome': 'DQA1*05:01', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQB1*04:01', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQB1*04:01.2', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQB1*04:02', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*04:01.2', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*04:02.2', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQB1*06:01', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQB1*06:02', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQB1*06:02.2', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQB1*06:03', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQB1*06:04', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQB1*06:09', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*06:01', 'valor': 38.09, 'compatibilidade': True}]}, 11: {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'A*66:01', 'valor': 11239.65, 'compatibilidade': False}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*04:01', 'valor': 209.3, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'C*06:02', 'valor': 173.36, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 1204.45, 'compatibilidade': False}, {'nome': 'DRB1*04:01', 'valor': 19586.13, 'compatibilidade': False}, {'nome': 'DRB1*04:02', 'valor': 4052.25, 'compatibilidade': False}, {'nome': 'DRB1*04:04', 'valor': 21176.8, 'compatibilidade': False}, {'nome': 'DRB1*04:05', 'valor': 179.63, 'compatibilidade': True}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*04:03', 'valor': 9234.63, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DQA1*04:01', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*04:01', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQB1*04:01.3', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQB1*04:02', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*04:01.3', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*04:02.3', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQB1*06:01', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQB1*06:02', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQB1*06:02.3', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQB1*06:03', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQB1*06:04', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQB1*06:09', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*06:01', 'valor': 38.09, 'compatibilidade': True}]}, 13: {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'A*66:01', 'valor': 119.65, 'compatibilidade': True}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 99.28, 'compatibilidade': True}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*04:01', 'valor': 209.3, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'C*06:02', 'valor': 173.36, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 1204.45, 'compatibilidade': False}, {'nome': 'DRB1*04:01', 'valor': 19586.13, 'compatibilidade': False}, {'nome': 'DRB1*04:02', 'valor': 4052.25, 'compatibilidade': False}, {'nome': 'DRB1*04:04', 'valor': 21176.8, 'compatibilidade': False}, {'nome': 'DRB1*04:05', 'valor': 179.63, 'compatibilidade': True}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*04:03', 'valor': 9234.63, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DQA1*04:01', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*04:01', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQB1*04:01.5', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQB1*04:02', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*04:01.5', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*04:02.5', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQB1*06:01', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQB1*06:02', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQB1*06:02.5', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQB1*06:03', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQB1*06:04', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQB1*06:09', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*06:01', 'valor': 38.09, 'compatibilidade': True}]}}
+Dados recebidos no backend: {'donor_name': 'Melissa K', 'donor_sex': 'Feminino', 'donor_birth_date': '2000-02-09', 'donor_blood_type': 'O-', 'results': {'10': {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'A*66:01', 'valor': 11239.65, 'compatibilidade': False}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*04:01', 'valor': 209.3, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 16726.35, 'compatibilidade': False}, {'nome': 'C*06:02', 'valor': 173.36, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 12046.45, 'compatibilidade': False}, {'nome': 'DRB1*04:01', 'valor': 19586.13, 'compatibilidade': False}, {'nome': 'DRB1*04:02', 'valor': 4052.25, 'compatibilidade': False}, {'nome': 'DRB1*04:04', 'valor': 21176.8, 'compatibilidade': False}, {'nome': 'DRB1*04:05', 'valor': 17911.63, 'compatibilidade': False}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*04:03', 'valor': 9234.63, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DQA1*04:01', 'valor': 12780.71, 'compatibilidade': False}, {'nome': 'DQA1*05:01', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQB1*04:01', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQB1*04:01.2', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQB1*04:02', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*04:01.2', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*04:02.2', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQB1*06:01', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQB1*06:02', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQB1*06:02.2', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQB1*06:03', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQB1*06:04', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQB1*06:09', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*06:01', 'valor': 38.09, 'compatibilidade': True}]}, '11': {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'A*66:01', 'valor': 11239.65, 'compatibilidade': False}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*04:01', 'valor': 209.3, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'C*06:02', 'valor': 173.36, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 1204.45, 'compatibilidade': False}, {'nome': 'DRB1*04:01', 'valor': 19586.13, 'compatibilidade': False}, {'nome': 'DRB1*04:02', 'valor': 4052.25, 'compatibilidade': False}, {'nome': 'DRB1*04:04', 'valor': 21176.8, 'compatibilidade': False}, {'nome': 'DRB1*04:05', 'valor': 179.63, 'compatibilidade': True}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*04:03', 'valor': 9234.63, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DQA1*04:01', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*04:01', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQB1*04:01.3', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQB1*04:02', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*04:01.3', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*04:02.3', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQB1*06:01', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQB1*06:02', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQB1*06:02.3', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQB1*06:03', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQB1*06:04', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQB1*06:09', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*06:01', 'valor': 38.09, 'compatibilidade': True}]}, '13': {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'A*66:01', 'valor': 119.65, 'compatibilidade': True}, {'nome': 'A*66:02', 'valor': 5424.87, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 99.28, 'compatibilidade': True}, {'nome': 'B*08:01', 'valor': 10973.49, 'compatibilidade': False}, {'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*04:01', 'valor': 209.3, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'C*06:02', 'valor': 173.36, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'C*08:01', 'valor': 1204.45, 'compatibilidade': False}, {'nome': 'DRB1*04:01', 'valor': 19586.13, 'compatibilidade': False}, {'nome': 'DRB1*04:02', 'valor': 4052.25, 'compatibilidade': False}, {'nome': 'DRB1*04:04', 'valor': 21176.8, 'compatibilidade': False}, {'nome': 'DRB1*04:05', 'valor': 179.63, 'compatibilidade': True}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*04:03', 'valor': 9234.63, 'compatibilidade': False}, {'nome': 'DRB1*08:01', 'valor': 103.99, 'compatibilidade': True}, {'nome': 'DQA1*04:01', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*04:01', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQB1*04:01.5', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQB1*04:02', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*04:01.5', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*04:02.5', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQB1*06:01', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQB1*06:02', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQB1*06:02.5', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQB1*06:03', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQB1*06:04', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQB1*06:09', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*06:01', 'valor': 38.09, 'compatibilidade': True}]}}}
+Crossmatch criado com ID: 24
+Processando paciente ID: 10, Nome: Alex Karev
+Resultado do paciente criado com ID: 54, Total Compatível: 15, Total Incompatível: 20
+Salvando alelo: Nome: A*66:01, Valor: 11239.65, Compatibilidade: False
+Alelo salvo com sucesso: A*66:01
+Salvando alelo: Nome: A*66:02, Valor: 5424.87, Compatibilidade: False
+Alelo salvo com sucesso: A*66:02
+Salvando alelo: Nome: B*07:02, Valor: 9923.28, Compatibilidade: False
+Alelo salvo com sucesso: B*07:02
+Salvando alelo: Nome: B*08:01, Valor: 10973.49, Compatibilidade: False
+Alelo salvo com sucesso: B*08:01
+Salvando alelo: Nome: B*55:01, Valor: 3189.35, Compatibilidade: False
+Alelo salvo com sucesso: B*55:01
+Salvando alelo: Nome: C*04:01, Valor: 209.3, Compatibilidade: True
+Alelo salvo com sucesso: C*04:01
+Salvando alelo: Nome: C*05:01, Valor: 16726.35, Compatibilidade: False
+Alelo salvo com sucesso: C*05:01
+Salvando alelo: Nome: C*06:02, Valor: 173.36, Compatibilidade: True
+Alelo salvo com sucesso: C*06:02
+Salvando alelo: Nome: C*07:02, Valor: 208.26, Compatibilidade: True
+Alelo salvo com sucesso: C*07:02
+Salvando alelo: Nome: C*08:01, Valor: 12046.45, Compatibilidade: False
+Alelo salvo com sucesso: C*08:01
+Salvando alelo: Nome: DRB1*04:01, Valor: 19586.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:01
+Salvando alelo: Nome: DRB1*04:02, Valor: 4052.25, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:02
+Salvando alelo: Nome: DRB1*04:04, Valor: 21176.8, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:04
+Salvando alelo: Nome: DRB1*04:05, Valor: 17911.63, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:05
+Salvando alelo: Nome: DRB1*07:01, Valor: 14746.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*07:01
+Salvando alelo: Nome: DRB1*04:03, Valor: 9234.63, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:03
+Salvando alelo: Nome: DRB1*08:01, Valor: 103.99, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*08:01
+Salvando alelo: Nome: DQA1*04:01, Valor: 12780.71, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*04:01
+Salvando alelo: Nome: DQA1*05:01, Valor: 20497.9, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*05:01
+Salvando alelo: Nome: DQB1*04:01, Valor: 829.17, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*04:01
+Salvando alelo: Nome: DQB1*04:01.2, Valor: 502.08, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*04:01.2
+Salvando alelo: Nome: DQB1*04:02, Valor: 1332.49, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*04:02
+Salvando alelo: Nome: DQA1*04:01.2, Valor: 336.36, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*04:01.2
+Salvando alelo: Nome: DQB1*04:02.2, Valor: 336.36, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*04:02.2
+Salvando alelo: Nome: DQB1*05:01, Valor: 13928.34, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:01
+Salvando alelo: Nome: DQB1*05:02, Valor: 6828.76, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:02
+Salvando alelo: Nome: DQB1*06:01, Valor: 207.91, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:01
+Salvando alelo: Nome: DQB1*06:02, Valor: 638.53, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:02
+Salvando alelo: Nome: DQB1*06:02.2, Valor: 1036.67, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*06:02.2
+Salvando alelo: Nome: DQB1*06:03, Valor: 1917.91, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*06:03
+Salvando alelo: Nome: DQB1*06:04, Valor: 128.52, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:04
+Salvando alelo: Nome: DQB1*06:09, Valor: 65.89, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:09
+Salvando alelo: Nome: DQA1*05:03, Valor: 92.28, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:03
+Salvando alelo: Nome: DQA1*05:05, Valor: 28.79, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:05
+Salvando alelo: Nome: DQA1*06:01, Valor: 38.09, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*06:01
+Processando paciente ID: 11, Nome: Arizona Robins
+Resultado do paciente criado com ID: 55, Total Compatível: 19, Total Incompatível: 16
+Salvando alelo: Nome: A*66:01, Valor: 11239.65, Compatibilidade: False
+Alelo salvo com sucesso: A*66:01
+Salvando alelo: Nome: A*66:02, Valor: 5424.87, Compatibilidade: False
+Alelo salvo com sucesso: A*66:02
+Salvando alelo: Nome: B*07:02, Valor: 9923.28, Compatibilidade: False
+Alelo salvo com sucesso: B*07:02
+Salvando alelo: Nome: B*08:01, Valor: 10973.49, Compatibilidade: False
+Alelo salvo com sucesso: B*08:01
+Salvando alelo: Nome: B*55:01, Valor: 3189.35, Compatibilidade: False
+Alelo salvo com sucesso: B*55:01
+Salvando alelo: Nome: C*04:01, Valor: 209.3, Compatibilidade: True
+Alelo salvo com sucesso: C*04:01
+Salvando alelo: Nome: C*05:01, Valor: 167.35, Compatibilidade: True
+Alelo salvo com sucesso: C*05:01
+Salvando alelo: Nome: C*06:02, Valor: 173.36, Compatibilidade: True
+Alelo salvo com sucesso: C*06:02
+Salvando alelo: Nome: C*07:02, Valor: 208.26, Compatibilidade: True
+Alelo salvo com sucesso: C*07:02
+Salvando alelo: Nome: C*08:01, Valor: 1204.45, Compatibilidade: False
+Alelo salvo com sucesso: C*08:01
+Salvando alelo: Nome: DRB1*04:01, Valor: 19586.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:01
+Salvando alelo: Nome: DRB1*04:02, Valor: 4052.25, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:02
+Salvando alelo: Nome: DRB1*04:04, Valor: 21176.8, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:04
+Salvando alelo: Nome: DRB1*04:05, Valor: 179.63, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*04:05
+Salvando alelo: Nome: DRB1*07:01, Valor: 14746.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*07:01
+Salvando alelo: Nome: DRB1*04:03, Valor: 9234.63, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:03
+Salvando alelo: Nome: DRB1*08:01, Valor: 103.99, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*08:01
+Salvando alelo: Nome: DQA1*04:01, Valor: 127.71, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*04:01
+Salvando alelo: Nome: DQA1*05:01, Valor: 204.9, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:01
+Salvando alelo: Nome: DQB1*04:01, Valor: 829.17, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*04:01
+Salvando alelo: Nome: DQB1*04:01.3, Valor: 502.08, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*04:01.3
+Salvando alelo: Nome: DQB1*04:02, Valor: 1332.49, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*04:02
+Salvando alelo: Nome: DQA1*04:01.3, Valor: 336.36, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*04:01.3
+Salvando alelo: Nome: DQB1*04:02.3, Valor: 336.36, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*04:02.3
+Salvando alelo: Nome: DQB1*05:01, Valor: 13928.34, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:01
+Salvando alelo: Nome: DQB1*05:02, Valor: 6828.76, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:02
+Salvando alelo: Nome: DQB1*06:01, Valor: 207.91, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:01
+Salvando alelo: Nome: DQB1*06:02, Valor: 638.53, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:02
+Salvando alelo: Nome: DQB1*06:02.3, Valor: 1036.67, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*06:02.3
+Salvando alelo: Nome: DQB1*06:03, Valor: 1917.91, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*06:03
+Salvando alelo: Nome: DQB1*06:04, Valor: 128.52, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:04
+Salvando alelo: Nome: DQB1*06:09, Valor: 65.89, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:09
+Salvando alelo: Nome: DQA1*05:03, Valor: 92.28, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:03
+Salvando alelo: Nome: DQA1*05:05, Valor: 28.79, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:05
+Salvando alelo: Nome: DQA1*06:01, Valor: 38.09, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*06:01
+Processando paciente ID: 13, Nome: Luiz Almeida
+Resultado do paciente criado com ID: 56, Total Compatível: 21, Total Incompatível: 14
+Salvando alelo: Nome: A*66:01, Valor: 119.65, Compatibilidade: True
+Alelo salvo com sucesso: A*66:01
+Salvando alelo: Nome: A*66:02, Valor: 5424.87, Compatibilidade: False
+Alelo salvo com sucesso: A*66:02
+Salvando alelo: Nome: B*07:02, Valor: 99.28, Compatibilidade: True
+Alelo salvo com sucesso: B*07:02
+Salvando alelo: Nome: B*08:01, Valor: 10973.49, Compatibilidade: False
+Alelo salvo com sucesso: B*08:01
+Salvando alelo: Nome: B*55:01, Valor: 3189.35, Compatibilidade: False
+Alelo salvo com sucesso: B*55:01
+Salvando alelo: Nome: C*04:01, Valor: 209.3, Compatibilidade: True
+Alelo salvo com sucesso: C*04:01
+Salvando alelo: Nome: C*05:01, Valor: 167.35, Compatibilidade: True
+Alelo salvo com sucesso: C*05:01
+Salvando alelo: Nome: C*06:02, Valor: 173.36, Compatibilidade: True
+Alelo salvo com sucesso: C*06:02
+Salvando alelo: Nome: C*07:02, Valor: 208.26, Compatibilidade: True
+Alelo salvo com sucesso: C*07:02
+Salvando alelo: Nome: C*08:01, Valor: 1204.45, Compatibilidade: False
+Alelo salvo com sucesso: C*08:01
+Salvando alelo: Nome: DRB1*04:01, Valor: 19586.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:01
+Salvando alelo: Nome: DRB1*04:02, Valor: 4052.25, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:02
+Salvando alelo: Nome: DRB1*04:04, Valor: 21176.8, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:04
+Salvando alelo: Nome: DRB1*04:05, Valor: 179.63, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*04:05
+Salvando alelo: Nome: DRB1*07:01, Valor: 14746.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*07:01
+Salvando alelo: Nome: DRB1*04:03, Valor: 9234.63, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*04:03
+Salvando alelo: Nome: DRB1*08:01, Valor: 103.99, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*08:01
+Salvando alelo: Nome: DQA1*04:01, Valor: 127.71, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*04:01
+Salvando alelo: Nome: DQA1*05:01, Valor: 204.9, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:01
+Salvando alelo: Nome: DQB1*04:01, Valor: 829.17, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*04:01
+Salvando alelo: Nome: DQB1*04:01.5, Valor: 502.08, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*04:01.5
+Salvando alelo: Nome: DQB1*04:02, Valor: 1332.49, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*04:02
+Salvando alelo: Nome: DQA1*04:01.5, Valor: 336.36, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*04:01.5
+Salvando alelo: Nome: DQB1*04:02.5, Valor: 336.36, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*04:02.5
+Salvando alelo: Nome: DQB1*05:01, Valor: 13928.34, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:01
+Salvando alelo: Nome: DQB1*05:02, Valor: 6828.76, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*05:02
+Salvando alelo: Nome: DQB1*06:01, Valor: 207.91, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:01
+Salvando alelo: Nome: DQB1*06:02, Valor: 638.53, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:02
+Salvando alelo: Nome: DQB1*06:02.5, Valor: 1036.67, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*06:02.5
+Salvando alelo: Nome: DQB1*06:03, Valor: 1917.91, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*06:03
+Salvando alelo: Nome: DQB1*06:04, Valor: 128.52, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:04
+Salvando alelo: Nome: DQB1*06:09, Valor: 65.89, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*06:09
+Salvando alelo: Nome: DQA1*05:03, Valor: 92.28, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:03
+Salvando alelo: Nome: DQA1*05:05, Valor: 28.79, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*05:05
+Salvando alelo: Nome: DQA1*06:01, Valor: 38.09, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*06:01
+Crossmatch processado com sucesso.
+Payload recebido: {"donor_name": "Melissa K", "donor_sex": "Feminino", "donor_birth_date": "2000-02-09", "donor_blood_type": "O-", "alelos": [{"tipo": "A", "numero": "2"}, {"tipo": "A", "numero": "2"}, {"tipo": "B", "numero": "2"}, {"tipo": "B", "numero": "2"}, {"tipo": "C", "numero": "2"}, {"tipo": "C", "numero": "2"}, {"tipo": "DR", "numero": "2"}, {"tipo": "DR", "numero": "2"}, {"tipo": "DQ", "numero": "2"}, {"tipo": "DQ", "numero": "2"}]}
+Tipo sanguíneo do doador: O-
+Pacientes com tipo sanguíneo compatível: [{'id': 10, 'nome': 'Alex Karev', 'tipo_sanguineo': 'O-'}, {'id': 11, 'nome': 'Arizona Robins', 'tipo_sanguineo': 'O-'}, {'id': 13, 'nome': 'Luiz Almeida', 'tipo_sanguineo': 'O-'}]
+Compatibilidade dos pacientes: {10: {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'C*02:02', 'valor': 19475.6, 'compatibilidade': False}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 12514.06, 'compatibilidade': False}, {'nome': 'DQB1*02:01', 'valor': 12514.06, 'compatibilidade': False}, {'nome': 'DQB1*02:01.4', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.5', 'valor': 12780.71, 'compatibilidade': False}, {'nome': 'DQB1*02:01.6', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQA1*02:01.7', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.8', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.9', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*02:01.10', 'valor': 50.0, 'compatibilidade': True}, {'nome': 'DQA1*02:01.11', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.12', 'valor': 82.5, 'compatibilidade': True}]}, 11: {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'C*02:02', 'valor': 194.6, 'compatibilidade': True}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01.7', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.8', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQB1*02:01.9', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQA1*02:01.13', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.14', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.15', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*02:01.16', 'valor': 50.0, 'compatibilidade': True}, {'nome': 'DQA1*02:01.17', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.18', 'valor': 82.5, 'compatibilidade': True}]}, 13: {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'C*02:02', 'valor': 194.6, 'compatibilidade': True}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01.13', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.14', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQB1*02:01.15', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQA1*02:01.25', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.26', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.27', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*02:01.28', 'valor': 50.0, 'compatibilidade': True}, {'nome': 'DQA1*02:01.29', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.30', 'valor': 82.5, 'compatibilidade': True}]}}
+Dados recebidos no backend: {'donor_name': 'Melissa K', 'donor_sex': 'Feminino', 'donor_birth_date': '2000-02-09', 'donor_blood_type': 'O-', 'results': {'10': {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'C*02:02', 'valor': 19475.6, 'compatibilidade': False}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 12514.06, 'compatibilidade': False}, {'nome': 'DQB1*02:01', 'valor': 12514.06, 'compatibilidade': False}, {'nome': 'DQB1*02:01.4', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.5', 'valor': 12780.71, 'compatibilidade': False}, {'nome': 'DQB1*02:01.6', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQA1*02:01.7', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.8', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.9', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*02:01.10', 'valor': 50, 'compatibilidade': True}, {'nome': 'DQA1*02:01.11', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.12', 'valor': 82.5, 'compatibilidade': True}]}, '11': {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'C*02:02', 'valor': 194.6, 'compatibilidade': True}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01.7', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.8', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQB1*02:01.9', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQA1*02:01.13', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.14', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.15', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*02:01.16', 'valor': 50, 'compatibilidade': True}, {'nome': 'DQA1*02:01.17', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.18', 'valor': 82.5, 'compatibilidade': True}]}, '13': {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'A*02:01', 'valor': 32.31, 'compatibilidade': True}, {'nome': 'A*02:03', 'valor': 32.17, 'compatibilidade': True}, {'nome': 'A*02:06', 'valor': 74.28, 'compatibilidade': True}, {'nome': 'C*02:02', 'valor': 194.6, 'compatibilidade': True}, {'nome': 'DRB3*02:02', 'valor': 78.57, 'compatibilidade': True}, {'nome': 'DRB5*02:02', 'valor': 22968.43, 'compatibilidade': False}, {'nome': 'DQA1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01', 'valor': 125.06, 'compatibilidade': True}, {'nome': 'DQB1*02:01.13', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQB1*02:01.14', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQB1*02:01.15', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQA1*02:01.25', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQB1*02:02', 'valor': 12349.42, 'compatibilidade': False}, {'nome': 'DQA1*02:01.26', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQA1*02:01.27', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*02:01.28', 'valor': 50, 'compatibilidade': True}, {'nome': 'DQA1*02:01.29', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*02:01.30', 'valor': 82.5, 'compatibilidade': True}]}}}
+Crossmatch criado com ID: 25
+Processando paciente ID: 10, Nome: Alex Karev
+Resultado do paciente criado com ID: 57, Total Compatível: 8, Total Incompatível: 10
+Salvando alelo: Nome: A*02:01, Valor: 32.31, Compatibilidade: True
+Alelo salvo com sucesso: A*02:01
+Salvando alelo: Nome: A*02:03, Valor: 32.17, Compatibilidade: True
+Alelo salvo com sucesso: A*02:03
+Salvando alelo: Nome: A*02:06, Valor: 74.28, Compatibilidade: True
+Alelo salvo com sucesso: A*02:06
+Salvando alelo: Nome: C*02:02, Valor: 19475.6, Compatibilidade: False
+Alelo salvo com sucesso: C*02:02
+Salvando alelo: Nome: DRB3*02:02, Valor: 78.57, Compatibilidade: True
+Alelo salvo com sucesso: DRB3*02:02
+Salvando alelo: Nome: DRB5*02:02, Valor: 22968.43, Compatibilidade: False
+Alelo salvo com sucesso: DRB5*02:02
+Salvando alelo: Nome: DQA1*02:01, Valor: 12514.06, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01
+Salvando alelo: Nome: DQB1*02:01, Valor: 12514.06, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01
+Salvando alelo: Nome: DQB1*02:01.4, Valor: 14980.46, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01.4
+Salvando alelo: Nome: DQB1*02:01.5, Valor: 12780.71, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01.5
+Salvando alelo: Nome: DQB1*02:01.6, Valor: 20497.9, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01.6
+Salvando alelo: Nome: DQA1*02:01.7, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.7
+Salvando alelo: Nome: DQB1*02:02, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:02
+Salvando alelo: Nome: DQA1*02:01.8, Valor: 829.17, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.8
+Salvando alelo: Nome: DQA1*02:01.9, Valor: 1332.49, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.9
+Salvando alelo: Nome: DQA1*02:01.10, Valor: 50, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.10
+Salvando alelo: Nome: DQA1*02:01.11, Valor: 91.48, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.11
+Salvando alelo: Nome: DQA1*02:01.12, Valor: 82.5, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.12
+Processando paciente ID: 11, Nome: Arizona Robins
+Resultado do paciente criado com ID: 58, Total Compatível: 13, Total Incompatível: 5
+Salvando alelo: Nome: A*02:01, Valor: 32.31, Compatibilidade: True
+Alelo salvo com sucesso: A*02:01
+Salvando alelo: Nome: A*02:03, Valor: 32.17, Compatibilidade: True
+Alelo salvo com sucesso: A*02:03
+Salvando alelo: Nome: A*02:06, Valor: 74.28, Compatibilidade: True
+Alelo salvo com sucesso: A*02:06
+Salvando alelo: Nome: C*02:02, Valor: 194.6, Compatibilidade: True
+Alelo salvo com sucesso: C*02:02
+Salvando alelo: Nome: DRB3*02:02, Valor: 78.57, Compatibilidade: True
+Alelo salvo com sucesso: DRB3*02:02
+Salvando alelo: Nome: DRB5*02:02, Valor: 22968.43, Compatibilidade: False
+Alelo salvo com sucesso: DRB5*02:02
+Salvando alelo: Nome: DQA1*02:01, Valor: 125.06, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01
+Salvando alelo: Nome: DQB1*02:01, Valor: 125.06, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01
+Salvando alelo: Nome: DQB1*02:01.7, Valor: 14980.46, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01.7
+Salvando alelo: Nome: DQB1*02:01.8, Valor: 127.71, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01.8
+Salvando alelo: Nome: DQB1*02:01.9, Valor: 204.9, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01.9
+Salvando alelo: Nome: DQA1*02:01.13, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.13
+Salvando alelo: Nome: DQB1*02:02, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:02
+Salvando alelo: Nome: DQA1*02:01.14, Valor: 829.17, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.14
+Salvando alelo: Nome: DQA1*02:01.15, Valor: 1332.49, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.15
+Salvando alelo: Nome: DQA1*02:01.16, Valor: 50, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.16
+Salvando alelo: Nome: DQA1*02:01.17, Valor: 91.48, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.17
+Salvando alelo: Nome: DQA1*02:01.18, Valor: 82.5, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.18
+Processando paciente ID: 13, Nome: Luiz Almeida
+Resultado do paciente criado com ID: 59, Total Compatível: 13, Total Incompatível: 5
+Salvando alelo: Nome: A*02:01, Valor: 32.31, Compatibilidade: True
+Alelo salvo com sucesso: A*02:01
+Salvando alelo: Nome: A*02:03, Valor: 32.17, Compatibilidade: True
+Alelo salvo com sucesso: A*02:03
+Salvando alelo: Nome: A*02:06, Valor: 74.28, Compatibilidade: True
+Alelo salvo com sucesso: A*02:06
+Salvando alelo: Nome: C*02:02, Valor: 194.6, Compatibilidade: True
+Alelo salvo com sucesso: C*02:02
+Salvando alelo: Nome: DRB3*02:02, Valor: 78.57, Compatibilidade: True
+Alelo salvo com sucesso: DRB3*02:02
+Salvando alelo: Nome: DRB5*02:02, Valor: 22968.43, Compatibilidade: False
+Alelo salvo com sucesso: DRB5*02:02
+Salvando alelo: Nome: DQA1*02:01, Valor: 125.06, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01
+Salvando alelo: Nome: DQB1*02:01, Valor: 125.06, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01
+Salvando alelo: Nome: DQB1*02:01.13, Valor: 14980.46, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:01.13
+Salvando alelo: Nome: DQB1*02:01.14, Valor: 127.71, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01.14
+Salvando alelo: Nome: DQB1*02:01.15, Valor: 204.9, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*02:01.15
+Salvando alelo: Nome: DQA1*02:01.25, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.25
+Salvando alelo: Nome: DQB1*02:02, Valor: 12349.42, Compatibilidade: False
+Alelo salvo com sucesso: DQB1*02:02
+Salvando alelo: Nome: DQA1*02:01.26, Valor: 829.17, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.26
+Salvando alelo: Nome: DQA1*02:01.27, Valor: 1332.49, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*02:01.27
+Salvando alelo: Nome: DQA1*02:01.28, Valor: 50, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.28
+Salvando alelo: Nome: DQA1*02:01.29, Valor: 91.48, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.29
+Salvando alelo: Nome: DQA1*02:01.30, Valor: 82.5, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*02:01.30
+Crossmatch processado com sucesso.
+Unauthorized: /api/token/refresh/
+Unauthorized: /api/token/refresh/
+Unauthorized: /api/token/refresh/
+Unauthorized: /api/token/refresh/
+C:\Users\mellk\projects\tcc\tcc_back\backend\views.py changed, reloading.
+Watching for file changes with StatReloader
+Valor incorreto para o alelo A*01:01: 
+Valor incorreto para o alelo A*02:01: 
+Valor incorreto para o alelo A*02:03: 
+Valor incorreto para o alelo A*02:06: 
+Valor incorreto para o alelo A*03:01: 
+Valor incorreto para o alelo A*11:01: 
+Valor incorreto para o alelo A*11:02: 
+Valor incorreto para o alelo A*23:01: 
+Valor incorreto para o alelo A*24:02: 
+Valor incorreto para o alelo A*24:03: 
+Valor incorreto para o alelo A*25:01: 
+Valor incorreto para o alelo A*26:01: 
+Valor incorreto para o alelo A*29:01: 
+Valor incorreto para o alelo B*27:05: 
+Valor incorreto para o alelo A*29:02: 
+Valor incorreto para o alelo A*30:01: 
+Valor incorreto para o alelo A*30:02: 
+Valor incorreto para o alelo A*31:01: 
+Valor incorreto para o alelo A*32:01: 
+Valor incorreto para o alelo A*33:01: 
+Valor incorreto para o alelo A*34:01: 
+Valor incorreto para o alelo A*34:02: 
+Valor incorreto para o alelo A*36:01: 
+Valor incorreto para o alelo A*43:01: 
+Valor incorreto para o alelo A*66:01: 
+Valor incorreto para o alelo A*66:02: 
+Valor incorreto para o alelo A*68:01: 
+Valor incorreto para o alelo A*68:02: 
+Valor incorreto para o alelo A*69:01: 
+Valor incorreto para o alelo A*74:01: 
+Valor incorreto para o alelo A*80:01: 
+Valor incorreto para o alelo B*07:02: 
+Valor incorreto para o alelo B*08:01: 
+Valor incorreto para o alelo B*13:02: 
+Valor incorreto para o alelo B*14:01: 
+Valor incorreto para o alelo B*14:02: 
+Valor incorreto para o alelo B*15:01: 
+Valor incorreto para o alelo B*15:02: 
+Valor incorreto para o alelo B*15:03: 
+Valor incorreto para o alelo B*15:10: 
+Valor incorreto para o alelo B*15:12: 
+Valor incorreto para o alelo B*15:13: 
+Valor incorreto para o alelo B*15:16: 
+Valor incorreto para o alelo B*18:01: 
+Valor incorreto para o alelo B*27:08: 
+Valor incorreto para o alelo B*35:01: 
+Valor incorreto para o alelo B*37:01: 
+Valor incorreto para o alelo B*38:01: 
+Valor incorreto para o alelo B*39:01: 
+Valor incorreto para o alelo B*40:01: 
+Valor incorreto para o alelo B*40:02: 
+Valor incorreto para o alelo B*41:01: 
+Valor incorreto para o alelo B*42:01: 
+Valor incorreto para o alelo B*44:02: 
+Valor incorreto para o alelo B*44:03: 
+Valor incorreto para o alelo B*45:01: 
+Valor incorreto para o alelo B*49:01: 
+Valor incorreto para o alelo B*47:01: 
+Valor incorreto para o alelo B*48:01: 
+Valor incorreto para o alelo B*46:01: 
+Valor incorreto para o alelo B*50:01: 
+Valor incorreto para o alelo B*51:01: 
+Valor incorreto para o alelo B*51:02: 
+Valor incorreto para o alelo B*52:01: 
+Valor incorreto para o alelo B*53:01: 
+Valor incorreto para o alelo B*54:01: 
+Valor incorreto para o alelo B*55:01: 
+Valor incorreto para o alelo B*56:01: 
+Valor incorreto para o alelo B*57:01: 
+Valor incorreto para o alelo B*57:03: 
+Valor incorreto para o alelo B*58:01: 
+Valor incorreto para o alelo B*59:01: 
+Valor incorreto para o alelo B*67:01: 
+Valor incorreto para o alelo B*73:01: 
+Valor incorreto para o alelo B*78:01: 
+Valor incorreto para o alelo B*81:01: 
+Valor incorreto para o alelo B*82:01: 
+Valor incorreto para o alelo C*01:02: 
+Valor incorreto para o alelo C*02:02: 
+Valor incorreto para o alelo C*03:02: 
+Valor incorreto para o alelo C*03:03: 
+Valor incorreto para o alelo C*03:04: 
+Valor incorreto para o alelo C*04:01: 
+Valor incorreto para o alelo C*05:01: 
+Valor incorreto para o alelo C*06:02: 
+Valor incorreto para o alelo C*07:02: 
+Valor incorreto para o alelo C*08:01: 
+Valor incorreto para o alelo C*12:03: 
+Valor incorreto para o alelo C*14:02: 
+Valor incorreto para o alelo C*15:02: 
+Valor incorreto para o alelo C*16:01: 
+Valor incorreto para o alelo C*17:01: 
+Valor incorreto para o alelo C*18:02: 
+Valor incorreto para o alelo B*13:01: 
+Valor incorreto para o alelo B*15:11: 
+Valor incorreto para o alelo B*40:06: 
+Valor incorreto para o alelo A*33:03: 
+C:\Users\mellk\projects\tcc\tcc_back\backend\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mellk\projects\tcc\tcc_back\backend\views.py changed, reloading.
+Watching for file changes with StatReloader
+Processando alelo: A*01:01 com valor: 0.0
+Processando alelo: A*02:01 com valor: 5.44
+Processando alelo: A*02:03 com valor: 0.0
+Processando alelo: A*02:06 com valor: 46.9
+Processando alelo: A*03:01 com valor: 9395.33
+Processando alelo: A*11:01 com valor: 3796.57
+Processando alelo: A*11:02 com valor: 2949.96
+Processando alelo: A*23:01 com valor: 11575.1
+Processando alelo: A*24:02 com valor: 904.76
+Processando alelo: A*24:03 com valor: 2225.04
+Processando alelo: A*25:01 com valor: 5971.71
+Processando alelo: A*26:01 com valor: 7170.52
+Processando alelo: A*29:01 com valor: 6685.43
+Processando alelo: B*27:05 com valor: 8501.41
+Processando alelo: A*29:02 com valor: 5949.29
+Processando alelo: A*30:01 com valor: 12637.93
+Processando alelo: A*30:02 com valor: 13016.04
+Processando alelo: A*31:01 com valor: 11728.99
+Processando alelo: A*32:01 com valor: 7561.29
+Processando alelo: A*33:01 com valor: 8964.34
+Processando alelo: A*34:01 com valor: 13922.95
+Processando alelo: A*34:02 com valor: 7927.82
+Processando alelo: A*36:01 com valor: 100.0
+Processando alelo: A*43:01 com valor: 12721.75
+Processando alelo: A*66:01 com valor: 11215.78
+Processando alelo: A*66:02 com valor: 5394.8
+Processando alelo: A*68:01 com valor: 9953.71
+Processando alelo: A*68:02 com valor: 12425.69
+Processando alelo: A*69:01 com valor: 11043.3
+Processando alelo: A*74:01 com valor: 7722.92
+Processando alelo: A*80:01 com valor: 7765.64
+Processando alelo: B*07:02 com valor: 9898.77
+Processando alelo: B*08:01 com valor: 10919.88
+Processando alelo: B*13:02 com valor: 12301.76
+Processando alelo: B*14:01 com valor: 10576.87
+Processando alelo: B*14:02 com valor: 15094.66
+Processando alelo: B*15:01 com valor: 2512.76
+Processando alelo: B*15:02 com valor: 4846.36
+Processando alelo: B*15:03 com valor: 2299.45
+Processando alelo: B*15:10 com valor: 8010.96
+Processando alelo: B*15:12 com valor: 4065.9
+Processando alelo: B*15:13 com valor: 5463.98
+Processando alelo: B*15:16 com valor: 8668.94
+Processando alelo: B*18:01 com valor: 4117.52
+Processando alelo: B*27:08 com valor: 8388.38
+Processando alelo: B*35:01 com valor: 4653.8
+Processando alelo: B*37:01 com valor: 9593.85
+Processando alelo: B*38:01 com valor: 4847.86
+Processando alelo: B*39:01 com valor: 88.82
+Processando alelo: B*40:01 com valor: 17505.02
+Processando alelo: B*40:02 com valor: 16651.17
+Processando alelo: B*41:01 com valor: 15246.0
+Processando alelo: B*42:01 com valor: 1389.64
+Processando alelo: B*44:02 com valor: 14997.98
+Processando alelo: B*44:03 com valor: 13026.73
+Processando alelo: B*45:01 com valor: 9751.47
+Processando alelo: B*49:01 com valor: 3966.67
+Processando alelo: B*47:01 com valor: 12041.41
+Processando alelo: B*48:01 com valor: 9575.57
+Processando alelo: B*46:01 com valor: 7646.73
+Processando alelo: B*50:01 com valor: 5617.38
+Processando alelo: B*51:01 com valor: 3140.65
+Processando alelo: B*51:02 com valor: 4214.8
+Processando alelo: B*52:01 com valor: 6609.67
+Processando alelo: B*53:01 com valor: 5168.14
+Processando alelo: B*54:01 com valor: 15711.73
+Processando alelo: B*55:01 com valor: 3137.18
+Processando alelo: B*56:01 com valor: 6855.69
+Processando alelo: B*57:01 com valor: 29.8
+Processando alelo: B*57:03 com valor: 65.38
+Processando alelo: B*58:01 com valor: 3766.64
+Processando alelo: B*59:01 com valor: 9120.72
+Processando alelo: B*67:01 com valor: 554.58
+Processando alelo: B*73:01 com valor: 12788.86
+Processando alelo: B*78:01 com valor: 4306.23
+Processando alelo: B*81:01 com valor: 5367.22
+Processando alelo: B*82:01 com valor: 19808.04
+Processando alelo: C*01:02 com valor: 1610.29
+Processando alelo: C*02:02 com valor: 19406.81
+Processando alelo: C*03:02 com valor: 9221.02
+Processando alelo: C*03:03 com valor: 8570.67
+Processando alelo: C*03:04 com valor: 11949.0
+Processando alelo: C*04:01 com valor: 44.85
+Processando alelo: C*05:01 com valor: 16649.67
+Processando alelo: C*06:02 com valor: 106.69
+Processando alelo: C*07:02 com valor: 95.79
+Processando alelo: C*08:01 com valor: 12002.22
+Processando alelo: C*12:03 com valor: 90.36
+Processando alelo: C*14:02 com valor: 200.39
+Processando alelo: C*15:02 com valor: 12863.65
+Processando alelo: C*16:01 com valor: 13386.16
+Processando alelo: C*17:01 com valor: 236.39
+Processando alelo: C*18:02 com valor: 121.11
+Processando alelo: B*13:01 com valor: 10931.49
+Processando alelo: B*15:11 com valor: 5311.42
+Processando alelo: B*40:06 com valor: 17583.6
+Processando alelo: A*33:03 com valor: 9443.11
+Processando alelo: DRB1*01:01 com valor: 11932.76
+Processando alelo: DRB1*01:02 com valor: 13524.82
+Processando alelo: DRB1*01:03 com valor: 23224.47
+Processando alelo: DRB1*03:01 com valor: 131.77
+Processando alelo: DRB1*03:02 com valor: 174.91
+Processando alelo: DRB1*04:01 com valor: 19545.99
+Processando alelo: DRB1*04:02 com valor: 4022.94
+Processando alelo: DRB1*04:04 com valor: 21140.44
+Processando alelo: DRB1*04:05 com valor: 17885.21
+Processando alelo: DRB1*07:01 com valor: 14704.47
+Processando alelo: DRB1*04:03 com valor: 9194.76
+Processando alelo: DRB1*08:01 com valor: 58.28
+Processando alelo: DRB1*09:01 com valor: 22564.62
+Processando alelo: DRB1*09:02 com valor: 22711.61
+Processando alelo: DRB1*10:01 com valor: 17947.84
+Processando alelo: DRB1*11:01 com valor: 98.94
+Processando alelo: DRB1*11:04 com valor: 60.23
+Processando alelo: DRB1*12:01 com valor: 129.16
+Processando alelo: DRB1*12:02 com valor: 84.52
+Processando alelo: DRB1*13:01 com valor: 188.27
+Processando alelo: DRB1*13:03 com valor: 38.72
+Processando alelo: DRB1*14:01 com valor: 7816.91
+Processando alelo: DRB1*14:02 com valor: 19139.63
+Processando alelo: DRB1*14:54 com valor: 7953.04
+Processando alelo: DRB1*15:01 com valor: 2744.15
+Processando alelo: DRB1*15:02 com valor: 2665.75
+Processando alelo: DRB1*15:03 com valor: 3841.5
+Processando alelo: DRB1*16:01 com valor: 212.65
+Processando alelo: DRB1*16:02 com valor: 226.08
+Processando alelo: DRB3*01:01 com valor: 111.97
+Processando alelo: DRB3*02:02 com valor: 40.26
+Processando alelo: DRB3*03:01 com valor: 34.93
+Processando alelo: DRB4*01:01 com valor: 18456.4
+Processando alelo: DRB4*01:03 com valor: 15830.93
+Processando alelo: DRB5*01:01 com valor: 23528.71
+Processando alelo: DRB5*02:02 com valor: 22937.9
+Processando alelo: DQA1*02:01 com valor: 12448.05
+Processando alelo: DQB1*02:01 com valor: 12448.05
+Processando alelo: DQA1*03:01 com valor: 14909.46
+Processando alelo: DQB1*02:01 com valor: 14909.46
+Processando alelo: DQA1*04:01 com valor: 12726.75
+Processando alelo: DQB1*02:01 com valor: 12726.75
+Processando alelo: DQA1*05:01 com valor: 20396.56
+Processando alelo: DQB1*02:01 com valor: 20396.56
+Processando alelo: DQA1*02:01 com valor: 12277.84
+Processando alelo: DQB1*02:02 com valor: 12277.84
+Processando alelo: DQA1*02:01 com valor: 770.55
+Processando alelo: DQB1*04:01 com valor: 770.55
+Processando alelo: DQA1*03:03 com valor: 432.8
+Processando alelo: DQB1*04:01 com valor: 432.8
+Processando alelo: DQA1*02:01 com valor: 1296.06
+Processando alelo: DQB1*04:02 com valor: 1296.06
+Processando alelo: DQA1*04:01 com valor: 291.99
+Processando alelo: DQB1*04:02 com valor: 291.99
+Processando alelo: DQA1*01:01 com valor: 13850.01
+Processando alelo: DQB1*05:01 com valor: 13850.01
+Processando alelo: DQA1*01:02 com valor: 6789.87
+Processando alelo: DQB1*05:02 com valor: 6789.87
+Processando alelo: DQA1*01:03 com valor: 161.14
+Processando alelo: DQB1*06:01 com valor: 161.14
+Processando alelo: DQA1*01:02 com valor: 600.85
+Processando alelo: DQB1*06:02 com valor: 600.85
+Processando alelo: DQA1*01:01 com valor: 982.87
+Processando alelo: DQB1*06:02 com valor: 982.87
+Processando alelo: DQA1*01:03 com valor: 1793.59
+Processando alelo: DQB1*06:03 com valor: 1793.59
+Processando alelo: DQA1*01:02 com valor: 41.43
+Processando alelo: DQB1*06:04 com valor: 41.43
+Processando alelo: DQA1*01:02 com valor: 20.05
+Processando alelo: DQB1*06:09 com valor: 20.05
+Processando alelo: DQA1*03:01 com valor: 73.81
+Processando alelo: DQB1*03:01 com valor: 73.81
+Processando alelo: DQA1*02:01 com valor: 11.57
+Processando alelo: DQB1*03:01 com valor: 11.57
+Processando alelo: DQA1*05:03 com valor: 29.88
+Processando alelo: DQB1*03:01 com valor: 29.88
+Processando alelo: DQA1*05:05 com valor: 0.0
+Processando alelo: DQB1*03:19 com valor: 0.0
+Processando alelo: DQA1*06:01 com valor: 0.0
+Processando alelo: DQB1*03:01 com valor: 0.0
+Processando alelo: DQA1*02:01 com valor: 35.28
+Processando alelo: DQB1*03:02 com valor: 35.28
+Processando alelo: DQA1*03:01 com valor: 105.99
+Processando alelo: DQB1*03:02 com valor: 105.99
+Processando alelo: DQA1*03:02 com valor: 172.01
+Processando alelo: DQB1*03:02 com valor: 172.01
+Processando alelo: DQA1*02:01 com valor: 45.77
+Processando alelo: DQB1*03:03 com valor: 45.77
+Processando alelo: DQA1*03:01 com valor: 60.88
+Processando alelo: DQB1*03:03 com valor: 60.88
+Processando alelo: DQA1*03:02 com valor: 495.32
+Processando alelo: DQB1*03:03 com valor: 495.32
+Processando alelo: DPA1*01:03 com valor: 6122.88
+Processando alelo: DPB1*01:01 com valor: 6122.88
+Processando alelo: DPA1*02:01 com valor: 13138.09
+Processando alelo: DPB1*01:01 com valor: 13138.09
+Processando alelo: DPA1*01:03 com valor: 77.38
+Processando alelo: DPB1*02:01 com valor: 77.38
+Processando alelo: DPA1*02:02 com valor: 14178.11
+Processando alelo: DPB1*05:01 com valor: 14178.11
+Processando alelo: DPA1*01:03 com valor: 57.4
+Processando alelo: DPB1*03:01 com valor: 57.4
+Processando alelo: DPA1*01:05 com valor: 48.06
+Processando alelo: DPB1*03:01 com valor: 48.06
+Processando alelo: DPA1*02:01 com valor: 12609.65
+Processando alelo: DPB1*03:01 com valor: 12609.65
+Processando alelo: DPA1*01:03 com valor: 5161.06
+Processando alelo: DPB1*04:01 com valor: 5161.06
+Processando alelo: DPA1*01:03 com valor: 39.57
+Processando alelo: DPB1*04:02 com valor: 39.57
+Processando alelo: DPA1*02:01 com valor: 13738.2
+Processando alelo: DPB1*05:01 com valor: 13738.2
+Processando alelo: DPA1*02:01 com valor: 11137.44
+Processando alelo: DPB1*06:01 com valor: 11137.44
+Processando alelo: DPA1*01:03 com valor: 17.99
+Processando alelo: DPB1*06:01 com valor: 17.99
+Processando alelo: DPA1*02:01 com valor: 11541.25
+Processando alelo: DPB1*09:01 com valor: 11541.25
+Processando alelo: DPA1*02:02 com valor: 10323.98
+Processando alelo: DPB1*10:01 com valor: 10323.98
+Processando alelo: DPA1*01:03 com valor: 6523.26
+Processando alelo: DPB1*11:01 com valor: 6523.26
+Processando alelo: DPA1*01:03 com valor: 20.4
+Processando alelo: DPB1*28:01 com valor: 20.4
+Processando alelo: DPA1*02:01 com valor: 12350.21
+Processando alelo: DPB1*13:01 com valor: 12350.21
+Processando alelo: DPA1*02:02 com valor: 13625.06
+Processando alelo: DPB1*13:01 com valor: 13625.06
+Processando alelo: DPA1*03:01 com valor: 4490.03
+Processando alelo: DPB1*13:01 com valor: 4490.03
+Processando alelo: DPA1*02:01 com valor: 11017.41
+Processando alelo: DPB1*14:01 com valor: 11017.41
+Processando alelo: DPA1*02:01 com valor: 7113.12
+Processando alelo: DPB1*15:01 com valor: 7113.12
+Processando alelo: DPA1*02:01 com valor: 10376.89
+Processando alelo: DPB1*17:01 com valor: 10376.89
+Processando alelo: DPA1*02:01 com valor: 10339.04
+Processando alelo: DPB1*18:01 com valor: 10339.04
+Processando alelo: DPA1*01:05 com valor: 81.21
+Processando alelo: DPB1*18:01 com valor: 81.21
+Processando alelo: DPA1*01:04 com valor: 53.25
+Processando alelo: DPB1*18:01 com valor: 53.25
+Processando alelo: DPA1*01:03 com valor: 6783.58
+Processando alelo: DPB1*19:01 com valor: 6783.58
+Processando alelo: DPA1*03:01 com valor: 97.96
+Processando alelo: DPB1*20:01 com valor: 97.96
+Processando alelo: DPA1*01:03 com valor: 3995.86
+Processando alelo: DPB1*23:01 com valor: 3995.86
+Processando alelo: DPA1*01:05 com valor: 108.63
+Processando alelo: DPB1*28:01 com valor: 108.63
+Processando alelo: DPA1*04:01 com valor: 2134.99
+Processando alelo: DPB1*28:01 com valor: 2134.99
+Processando alelo: DPA1*02:02 com valor: 11638.29
+Processando alelo: DPB1*11:01 com valor: 11638.29
+C:\Users\mellk\projects\tcc\tcc_back\backend\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mellk\projects\tcc\tcc_back\backend\models.py changed, reloading.
+Watching for file changes with StatReloader

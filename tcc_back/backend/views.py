@@ -110,7 +110,7 @@ def lista_exames(request):
         return Response({"error": f"Erro ao buscar exames: {str(e)}"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 @api_view(['GET'])
-@permission_classes([])  # Atualize a permissão conforme necessário
+@permission_classes([])  
 def detalhe_exame(request, exame_id):
     """
     Retorna os detalhes de um exame específico.
@@ -285,7 +285,6 @@ def detail_vxm(request, vxm_id):
         return Response({"error": "Crossmatch não encontrado"}, status=404)
     
 
-
 # Configurar logging
 logger = logging.getLogger(__name__)
 
@@ -337,15 +336,15 @@ def upload_excel(request, patient_id):
     paciente = get_object_or_404(Paciente, id=patient_id)
 
     try:
-        # Definir as colunas de alelo e valor "Raw"
+        # Definir as colunas de alelo e valor "normal"
         alelo_col = df.iloc[9:, 35]  # Coluna AJ para 'Allele Specificity'
-        raw_col = df.iloc[9:, 3]     # Coluna D para 'Raw'
+        normal_col = df.iloc[9:, 15]     # Coluna P para 'normal'
 
         # Criar ou obter o exame
         exame, created = Exame.objects.get_or_create(paciente=paciente, data_exame=exam_date)
 
         # Processar cada linha das colunas de alelos e valores
-        for alelo_name, raw_value in zip(alelo_col, raw_col):
+        for alelo_name, normal_value in zip(alelo_col, normal_col):
             # Ignorar células que só têm "-" ou espaços e vírgulas
             if not alelo_name or alelo_name.strip() in ["-", "", None]:
                 continue
@@ -380,12 +379,12 @@ def upload_excel(request, patient_id):
 
                 # Converter o valor para float, substituindo vírgula por ponto
                 try:
-                    raw_value = float(str(raw_value).replace(',', '.'))
+                    normal_value = float(str(normal_value).replace(',', '.'))
                 except ValueError:
-                    logger.warning(f"Valor incorreto para o alelo {main_alelo}: {raw_value}")
+                    logger.warning(f"Valor incorreto para o alelo {main_alelo}: {normal_value}")
                     continue  # Ignorar valores inválidos
 
-                logger.info(f"Processando alelo: {main_alelo} com valor: {raw_value}")
+                logger.info(f"Processando alelo: {main_alelo} com valor: {normal_value}")
 
                 # Verificar se já existe uma entrada para esse alelo no exame
                 if ExameAlelo.objects.filter(exame=exame, alelo=alelo).exists():
@@ -403,7 +402,7 @@ def upload_excel(request, patient_id):
                     )
 
                 # Associar o alelo ao exame
-                ExameAlelo.objects.create(exame=exame, alelo=alelo, valor=raw_value)
+                ExameAlelo.objects.create(exame=exame, alelo=alelo, valor=normal_value)
 
         return JsonResponse({"message": "Exame e alelos processados com sucesso."}, status=201)
     except Exception as e:
