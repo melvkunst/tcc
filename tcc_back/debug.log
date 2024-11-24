@@ -3557,3 +3557,218 @@ Payload recebido: {"donor_name": "Daniela G", "donor_sex": "Feminino", "donor_bi
 Tipo sanguíneo do doador: O-
 Pacientes com tipo sanguíneo compatível: [{'id': 10, 'nome': 'Alex Karev', 'tipo_sanguineo': 'O-'}, {'id': 11, 'nome': 'Arizona Robins', 'tipo_sanguineo': 'O-'}, {'id': 12, 'nome': 'Luiz Almeida', 'tipo_sanguineo': 'O-'}]
 Compatibilidade dos pacientes: {10: {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'A*01:01', 'valor': 310.47, 'compatibilidade': True}, {'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'B*45:01', 'valor': 9790.14, 'compatibilidade': False}, {'nome': 'B*56:01', 'valor': 6879.56, 'compatibilidade': False}, {'nome': 'C*01:02', 'valor': 1758.25, 'compatibilidade': False}, {'nome': 'C*04:01', 'valor': 209.3, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 16726.35, 'compatibilidade': False}, {'nome': 'C*06:02', 'valor': 173.36, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'DRB1*01:01', 'valor': 11964.41, 'compatibilidade': False}, {'nome': 'DRB1*01:02', 'valor': 13554.0, 'compatibilidade': False}, {'nome': 'DRB1*01:03', 'valor': 23259.32, 'compatibilidade': False}, {'nome': 'DRB1*04:01', 'valor': 19586.13, 'compatibilidade': False}, {'nome': 'DRB1*04:02', 'valor': 4052.25, 'compatibilidade': False}, {'nome': 'DRB1*04:04', 'valor': 21176.8, 'compatibilidade': False}, {'nome': 'DRB1*04:05', 'valor': 17911.63, 'compatibilidade': False}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*04:03', 'valor': 9234.63, 'compatibilidade': False}, {'nome': 'DRB3*01:01', 'valor': 153.61, 'compatibilidade': True}, {'nome': 'DRB4*01:01', 'valor': 18502.08, 'compatibilidade': False}, {'nome': 'DRB4*01:03', 'valor': 15860.21, 'compatibilidade': False}, {'nome': 'DRB5*01:01', 'valor': 23557.0, 'compatibilidade': False}, {'nome': 'DQA1*04:01', 'valor': 12780.71, 'compatibilidade': False}, {'nome': 'DQA1*05:01', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQB1*04:01', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQB1*04:01.2', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQB1*04:02', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*04:01.2', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*04:02.2', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQA1*01:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQA1*01:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*01:03', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQB1*06:01', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQA1*01:02.4', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQB1*06:02', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQA1*01:01.2', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQB1*06:02.2', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQA1*01:03.2', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQB1*06:03', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQA1*01:02.5', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQB1*06:04', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQA1*01:02.6', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQB1*06:09', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*06:01', 'valor': 38.09, 'compatibilidade': True}]}, 11: {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'A*01:01', 'valor': 310.47, 'compatibilidade': True}, {'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'B*45:01', 'valor': 9790.14, 'compatibilidade': False}, {'nome': 'B*56:01', 'valor': 6879.56, 'compatibilidade': False}, {'nome': 'C*01:02', 'valor': 1758.25, 'compatibilidade': False}, {'nome': 'C*04:01', 'valor': 209.3, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'C*06:02', 'valor': 173.36, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'DRB1*01:01', 'valor': 11964.41, 'compatibilidade': False}, {'nome': 'DRB1*01:02', 'valor': 13554.0, 'compatibilidade': False}, {'nome': 'DRB1*01:03', 'valor': 23.32, 'compatibilidade': True}, {'nome': 'DRB1*04:01', 'valor': 19586.13, 'compatibilidade': False}, {'nome': 'DRB1*04:02', 'valor': 4052.25, 'compatibilidade': False}, {'nome': 'DRB1*04:04', 'valor': 21176.8, 'compatibilidade': False}, {'nome': 'DRB1*04:05', 'valor': 179.63, 'compatibilidade': True}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*04:03', 'valor': 9234.63, 'compatibilidade': False}, {'nome': 'DRB3*01:01', 'valor': 153.61, 'compatibilidade': True}, {'nome': 'DRB4*01:01', 'valor': 18502.08, 'compatibilidade': False}, {'nome': 'DRB4*01:03', 'valor': 15860.21, 'compatibilidade': False}, {'nome': 'DRB5*01:01', 'valor': 23557.0, 'compatibilidade': False}, {'nome': 'DQA1*04:01', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*04:01', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQB1*04:01.3', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQB1*04:02', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*04:01.3', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*04:02.3', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQA1*01:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQA1*01:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*01:03', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQB1*06:01', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQA1*01:02.7', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQB1*06:02', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQA1*01:01.3', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQB1*06:02.3', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQA1*01:03.3', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQB1*06:03', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQA1*01:02.8', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQB1*06:04', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQA1*01:02.9', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQB1*06:09', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*06:01', 'valor': 38.09, 'compatibilidade': True}]}, 12: {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'DRB1*01:01', 'valor': 11964.41, 'compatibilidade': False}, {'nome': 'DRB1*01:02', 'valor': 13554.0, 'compatibilidade': False}, {'nome': 'DRB1*01:03', 'valor': 23.32, 'compatibilidade': True}, {'nome': 'DRB1*04:01', 'valor': 19586.13, 'compatibilidade': False}, {'nome': 'DRB1*04:02', 'valor': 4052.25, 'compatibilidade': False}, {'nome': 'DRB1*04:04', 'valor': 21176.8, 'compatibilidade': False}, {'nome': 'DRB1*04:05', 'valor': 179.63, 'compatibilidade': True}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'DRB1*04:03', 'valor': 9234.63, 'compatibilidade': False}, {'nome': 'DRB3*01:01', 'valor': 153.61, 'compatibilidade': True}, {'nome': 'DRB4*01:01', 'valor': 18502.08, 'compatibilidade': False}, {'nome': 'DRB4*01:03', 'valor': 15860.21, 'compatibilidade': False}, {'nome': 'DRB5*01:01', 'valor': 23557.0, 'compatibilidade': False}, {'nome': 'DQA1*04:01', 'valor': 127.71, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*04:01', 'valor': 829.17, 'compatibilidade': True}, {'nome': 'DQB1*04:01.4', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQB1*04:02', 'valor': 1332.49, 'compatibilidade': False}, {'nome': 'DQA1*04:01.4', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQB1*04:02.4', 'valor': 336.36, 'compatibilidade': True}, {'nome': 'DQA1*01:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQA1*01:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*01:03', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQB1*06:01', 'valor': 207.91, 'compatibilidade': True}, {'nome': 'DQA1*01:02.10', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQB1*06:02', 'valor': 638.53, 'compatibilidade': True}, {'nome': 'DQA1*01:01.4', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQB1*06:02.4', 'valor': 1036.67, 'compatibilidade': False}, {'nome': 'DQA1*01:03.4', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQB1*06:03', 'valor': 1917.91, 'compatibilidade': False}, {'nome': 'DQA1*01:02.11', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQB1*06:04', 'valor': 128.52, 'compatibilidade': True}, {'nome': 'DQA1*01:02.12', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQB1*06:09', 'valor': 65.89, 'compatibilidade': True}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQA1*06:01', 'valor': 38.09, 'compatibilidade': True}, {'nome': 'A*01:01', 'valor': 310.47, 'compatibilidade': True}, {'nome': 'B*07:02', 'valor': 99.28, 'compatibilidade': True}, {'nome': 'B*45:01', 'valor': 9790.14, 'compatibilidade': False}, {'nome': 'B*56:01', 'valor': 6879.56, 'compatibilidade': False}, {'nome': 'C*01:02', 'valor': 1758.25, 'compatibilidade': False}, {'nome': 'C*04:01', 'valor': 209.3, 'compatibilidade': True}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'C*06:02', 'valor': 173.36, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}]}}
+Unauthorized: /api/newvxm/virtual_crossmatch/
+Payload recebido: {"donor_name": "Daniela G", "donor_sex": "Feminino", "donor_birth_date": "9999-09-09", "donor_blood_type": "O-", "alelos": [{"tipo": "A", "numero": "55"}, {"tipo": "A", "numero": "5"}, {"tipo": "B", "numero": "5"}, {"tipo": "B", "numero": "55"}, {"tipo": "C", "numero": "55"}, {"tipo": "C", "numero": "5"}, {"tipo": "DR", "numero": "5"}, {"tipo": "DR", "numero": "5"}, {"tipo": "DQ", "numero": "55"}, {"tipo": "DQ", "numero": "55"}]}
+Tipo sanguíneo do doador: O-
+Pacientes com tipo sanguíneo compatível: [{'id': 10, 'nome': 'Alex Karev', 'tipo_sanguineo': 'O-'}, {'id': 11, 'nome': 'Arizona Robins', 'tipo_sanguineo': 'O-'}, {'id': 12, 'nome': 'Luiz Almeida', 'tipo_sanguineo': 'O-'}]
+Compatibilidade dos pacientes: {10: {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*05:01', 'valor': 16726.35, 'compatibilidade': False}, {'nome': 'DQA1*05:01', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}]}, 11: {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}]}, 12: {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}]}}
+Payload recebido: {"donor_name": "Daniela G", "donor_sex": "Feminino", "donor_birth_date": "1999-09-09", "donor_blood_type": "O-", "alelos": [{"tipo": "A", "numero": "5"}, {"tipo": "A", "numero": "5"}, {"tipo": "B", "numero": "55"}, {"tipo": "B", "numero": "5"}, {"tipo": "C", "numero": "5"}, {"tipo": "C", "numero": "55"}, {"tipo": "DR", "numero": "5"}, {"tipo": "DR", "numero": "5"}, {"tipo": "DQ", "numero": "55"}, {"tipo": "DQ", "numero": "55"}]}
+Tipo sanguíneo do doador: O-
+Pacientes com tipo sanguíneo compatível: [{'id': 10, 'nome': 'Alex Karev', 'tipo_sanguineo': 'O-'}, {'id': 11, 'nome': 'Arizona Robins', 'tipo_sanguineo': 'O-'}, {'id': 12, 'nome': 'Luiz Almeida', 'tipo_sanguineo': 'O-'}]
+Compatibilidade dos pacientes: {10: {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*05:01', 'valor': 16726.35, 'compatibilidade': False}, {'nome': 'DQA1*05:01', 'valor': 20497.9, 'compatibilidade': False}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}]}, 11: {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}, {'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}]}, 12: {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'DQA1*05:01', 'valor': 204.9, 'compatibilidade': True}, {'nome': 'DQB1*05:01', 'valor': 13928.34, 'compatibilidade': False}, {'nome': 'DQB1*05:02', 'valor': 6828.76, 'compatibilidade': False}, {'nome': 'DQA1*05:03', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQA1*05:05', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'B*55:01', 'valor': 3189.35, 'compatibilidade': False}, {'nome': 'C*05:01', 'valor': 167.35, 'compatibilidade': True}]}}
+Payload recebido: {"donor_name": "Daniela G", "donor_sex": "Feminino", "donor_birth_date": "2000-02-09", "donor_blood_type": "O-", "alelos": [{"tipo": "A", "numero": "3"}, {"tipo": "A", "numero": "3"}, {"tipo": "B", "numero": "3"}, {"tipo": "B", "numero": "3"}, {"tipo": "C", "numero": "3"}, {"tipo": "C", "numero": "3"}, {"tipo": "DR", "numero": "3"}, {"tipo": "DR", "numero": "33"}, {"tipo": "DQ", "numero": "33"}, {"tipo": "DQ", "numero": "3"}]}
+Tipo sanguíneo do doador: O-
+Pacientes com tipo sanguíneo compatível: [{'id': 10, 'nome': 'Alex Karev', 'tipo_sanguineo': 'O-'}, {'id': 11, 'nome': 'Arizona Robins', 'tipo_sanguineo': 'O-'}, {'id': 12, 'nome': 'Luiz Almeida', 'tipo_sanguineo': 'O-'}]
+Compatibilidade dos pacientes: {10: {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'A*03:01', 'valor': 9419.2, 'compatibilidade': False}, {'nome': 'A*33:01', 'valor': 9025.07, 'compatibilidade': False}, {'nome': 'C*03:02', 'valor': 9281.48, 'compatibilidade': False}, {'nome': 'C*03:03', 'valor': 8640.05, 'compatibilidade': False}, {'nome': 'C*03:04', 'valor': 12024.8, 'compatibilidade': False}, {'nome': 'A*33:03', 'valor': 9493.46, 'compatibilidade': False}, {'nome': 'DRB1*03:01', 'valor': 157.35, 'compatibilidade': True}, {'nome': 'DRB1*03:02', 'valor': 210.67, 'compatibilidade': True}, {'nome': 'DRB3*03:01', 'valor': 70.09, 'compatibilidade': True}, {'nome': 'DQA1*03:01', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQA1*03:03', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQA1*03:01.4', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01.4', 'valor': 50.0, 'compatibilidade': True}, {'nome': 'DQB1*03:01.5', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQB1*03:19', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQB1*03:01.6', 'valor': 38.09, 'compatibilidade': True}, {'nome': 'DQB1*03:02', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*03:01.5', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQB1*03:02.3', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQA1*03:02', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:02.4', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:03', 'valor': 82.5, 'compatibilidade': True}, {'nome': 'DQA1*03:01.6', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQB1*03:03.3', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQA1*03:02.2', 'valor': 551.84, 'compatibilidade': True}, {'nome': 'DQB1*03:03.4', 'valor': 551.84, 'compatibilidade': True}]}, 11: {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'A*03:01', 'valor': 9419.2, 'compatibilidade': False}, {'nome': 'A*33:01', 'valor': 9025.07, 'compatibilidade': False}, {'nome': 'C*03:02', 'valor': 9281.48, 'compatibilidade': False}, {'nome': 'C*03:03', 'valor': 8640.05, 'compatibilidade': False}, {'nome': 'C*03:04', 'valor': 12024.8, 'compatibilidade': False}, {'nome': 'A*33:03', 'valor': 9493.46, 'compatibilidade': False}, {'nome': 'DRB1*03:01', 'valor': 157.35, 'compatibilidade': True}, {'nome': 'DRB1*03:02', 'valor': 210.67, 'compatibilidade': True}, {'nome': 'DRB3*03:01', 'valor': 70.09, 'compatibilidade': True}, {'nome': 'DQA1*03:01', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQA1*03:03', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQA1*03:01.7', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01.7', 'valor': 50.0, 'compatibilidade': True}, {'nome': 'DQB1*03:01.8', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQB1*03:19', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQB1*03:01.9', 'valor': 38.09, 'compatibilidade': True}, {'nome': 'DQB1*03:02', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*03:01.8', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQB1*03:02.5', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQA1*03:02', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:02.6', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:03', 'valor': 82.5, 'compatibilidade': True}, {'nome': 'DQA1*03:01.9', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQB1*03:03.5', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQA1*03:02.3', 'valor': 551.84, 'compatibilidade': True}, {'nome': 'DQB1*03:03.6', 'valor': 551.84, 'compatibilidade': True}]}, 12: {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'DRB1*03:01', 'valor': 157.35, 'compatibilidade': True}, {'nome': 'DRB1*03:02', 'valor': 210.67, 'compatibilidade': True}, {'nome': 'DRB3*03:01', 'valor': 70.09, 'compatibilidade': True}, {'nome': 'DQA1*03:01', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQA1*03:03', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQA1*03:01.10', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01.10', 'valor': 50.0, 'compatibilidade': True}, {'nome': 'DQB1*03:01.11', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQB1*03:19', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQB1*03:01.12', 'valor': 38.09, 'compatibilidade': True}, {'nome': 'DQB1*03:02', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*03:01.11', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQB1*03:02.7', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQA1*03:02', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:02.8', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:03', 'valor': 82.5, 'compatibilidade': True}, {'nome': 'DQA1*03:01.12', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQB1*03:03.7', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQA1*03:02.4', 'valor': 551.84, 'compatibilidade': True}, {'nome': 'DQB1*03:03.8', 'valor': 551.84, 'compatibilidade': True}, {'nome': 'A*03:01', 'valor': 9419.2, 'compatibilidade': False}, {'nome': 'A*33:01', 'valor': 902.07, 'compatibilidade': True}, {'nome': 'C*03:02', 'valor': 9281.48, 'compatibilidade': False}, {'nome': 'C*03:03', 'valor': 8640.05, 'compatibilidade': False}, {'nome': 'C*03:04', 'valor': 12024.8, 'compatibilidade': False}, {'nome': 'A*33:03', 'valor': 9493.46, 'compatibilidade': False}]}}
+Dados recebidos no backend: {'donor_name': 'Daniela G', 'donor_sex': 'Feminino', 'donor_birth_date': '2000-02-09', 'donor_blood_type': 'O-', 'results': {'10': {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'A*03:01', 'valor': 9419.2, 'compatibilidade': False}, {'nome': 'A*33:01', 'valor': 9025.07, 'compatibilidade': False}, {'nome': 'C*03:02', 'valor': 9281.48, 'compatibilidade': False}, {'nome': 'C*03:03', 'valor': 8640.05, 'compatibilidade': False}, {'nome': 'C*03:04', 'valor': 12024.8, 'compatibilidade': False}, {'nome': 'A*33:03', 'valor': 9493.46, 'compatibilidade': False}, {'nome': 'DRB1*03:01', 'valor': 157.35, 'compatibilidade': True}, {'nome': 'DRB1*03:02', 'valor': 210.67, 'compatibilidade': True}, {'nome': 'DRB3*03:01', 'valor': 70.09, 'compatibilidade': True}, {'nome': 'DQA1*03:01', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQA1*03:03', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQA1*03:01.4', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01.4', 'valor': 50, 'compatibilidade': True}, {'nome': 'DQB1*03:01.5', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQB1*03:19', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQB1*03:01.6', 'valor': 38.09, 'compatibilidade': True}, {'nome': 'DQB1*03:02', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*03:01.5', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQB1*03:02.3', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQA1*03:02', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:02.4', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:03', 'valor': 82.5, 'compatibilidade': True}, {'nome': 'DQA1*03:01.6', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQB1*03:03.3', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQA1*03:02.2', 'valor': 551.84, 'compatibilidade': True}, {'nome': 'DQB1*03:03.4', 'valor': 551.84, 'compatibilidade': True}]}, '11': {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'A*03:01', 'valor': 9419.2, 'compatibilidade': False}, {'nome': 'A*33:01', 'valor': 9025.07, 'compatibilidade': False}, {'nome': 'C*03:02', 'valor': 9281.48, 'compatibilidade': False}, {'nome': 'C*03:03', 'valor': 8640.05, 'compatibilidade': False}, {'nome': 'C*03:04', 'valor': 12024.8, 'compatibilidade': False}, {'nome': 'A*33:03', 'valor': 9493.46, 'compatibilidade': False}, {'nome': 'DRB1*03:01', 'valor': 157.35, 'compatibilidade': True}, {'nome': 'DRB1*03:02', 'valor': 210.67, 'compatibilidade': True}, {'nome': 'DRB3*03:01', 'valor': 70.09, 'compatibilidade': True}, {'nome': 'DQA1*03:01', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQA1*03:03', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQA1*03:01.7', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01.7', 'valor': 50, 'compatibilidade': True}, {'nome': 'DQB1*03:01.8', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQB1*03:19', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQB1*03:01.9', 'valor': 38.09, 'compatibilidade': True}, {'nome': 'DQB1*03:02', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*03:01.8', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQB1*03:02.5', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQA1*03:02', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:02.6', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:03', 'valor': 82.5, 'compatibilidade': True}, {'nome': 'DQA1*03:01.9', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQB1*03:03.5', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQA1*03:02.3', 'valor': 551.84, 'compatibilidade': True}, {'nome': 'DQB1*03:03.6', 'valor': 551.84, 'compatibilidade': True}]}, '12': {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'DRB1*03:01', 'valor': 157.35, 'compatibilidade': True}, {'nome': 'DRB1*03:02', 'valor': 210.67, 'compatibilidade': True}, {'nome': 'DRB3*03:01', 'valor': 70.09, 'compatibilidade': True}, {'nome': 'DQA1*03:01', 'valor': 14980.46, 'compatibilidade': False}, {'nome': 'DQA1*03:03', 'valor': 502.08, 'compatibilidade': True}, {'nome': 'DQA1*03:01.10', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01', 'valor': 131.66, 'compatibilidade': True}, {'nome': 'DQB1*03:01.10', 'valor': 50, 'compatibilidade': True}, {'nome': 'DQB1*03:01.11', 'valor': 92.28, 'compatibilidade': True}, {'nome': 'DQB1*03:19', 'valor': 28.79, 'compatibilidade': True}, {'nome': 'DQB1*03:01.12', 'valor': 38.09, 'compatibilidade': True}, {'nome': 'DQB1*03:02', 'valor': 91.48, 'compatibilidade': True}, {'nome': 'DQA1*03:01.11', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQB1*03:02.7', 'valor': 184.12, 'compatibilidade': True}, {'nome': 'DQA1*03:02', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:02.8', 'valor': 251.36, 'compatibilidade': True}, {'nome': 'DQB1*03:03', 'valor': 82.5, 'compatibilidade': True}, {'nome': 'DQA1*03:01.12', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQB1*03:03.7', 'valor': 108.64, 'compatibilidade': True}, {'nome': 'DQA1*03:02.4', 'valor': 551.84, 'compatibilidade': True}, {'nome': 'DQB1*03:03.8', 'valor': 551.84, 'compatibilidade': True}, {'nome': 'A*03:01', 'valor': 9419.2, 'compatibilidade': False}, {'nome': 'A*33:01', 'valor': 902.07, 'compatibilidade': True}, {'nome': 'C*03:02', 'valor': 9281.48, 'compatibilidade': False}, {'nome': 'C*03:03', 'valor': 8640.05, 'compatibilidade': False}, {'nome': 'C*03:04', 'valor': 12024.8, 'compatibilidade': False}, {'nome': 'A*33:03', 'valor': 9493.46, 'compatibilidade': False}]}}}
+Crossmatch criado com ID: 21
+Processando paciente ID: 10, Nome: Alex Karev
+Resultado do paciente criado com ID: 45, Total Compatível: 20, Total Incompatível: 7
+Salvando alelo: Nome: A*03:01, Valor: 9419.2, Compatibilidade: False
+Alelo salvo com sucesso: A*03:01
+Salvando alelo: Nome: A*33:01, Valor: 9025.07, Compatibilidade: False
+Alelo salvo com sucesso: A*33:01
+Salvando alelo: Nome: C*03:02, Valor: 9281.48, Compatibilidade: False
+Alelo salvo com sucesso: C*03:02
+Salvando alelo: Nome: C*03:03, Valor: 8640.05, Compatibilidade: False
+Alelo salvo com sucesso: C*03:03
+Salvando alelo: Nome: C*03:04, Valor: 12024.8, Compatibilidade: False
+Alelo salvo com sucesso: C*03:04
+Salvando alelo: Nome: A*33:03, Valor: 9493.46, Compatibilidade: False
+Alelo salvo com sucesso: A*33:03
+Salvando alelo: Nome: DRB1*03:01, Valor: 157.35, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*03:01
+Salvando alelo: Nome: DRB1*03:02, Valor: 210.67, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*03:02
+Salvando alelo: Nome: DRB3*03:01, Valor: 70.09, Compatibilidade: True
+Alelo salvo com sucesso: DRB3*03:01
+Salvando alelo: Nome: DQA1*03:01, Valor: 14980.46, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*03:01
+Salvando alelo: Nome: DQA1*03:03, Valor: 502.08, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:03
+Salvando alelo: Nome: DQA1*03:01.4, Valor: 131.66, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:01.4
+Salvando alelo: Nome: DQB1*03:01, Valor: 131.66, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01
+Salvando alelo: Nome: DQB1*03:01.4, Valor: 50, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01.4
+Salvando alelo: Nome: DQB1*03:01.5, Valor: 92.28, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01.5
+Salvando alelo: Nome: DQB1*03:19, Valor: 28.79, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:19
+Salvando alelo: Nome: DQB1*03:01.6, Valor: 38.09, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01.6
+Salvando alelo: Nome: DQB1*03:02, Valor: 91.48, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:02
+Salvando alelo: Nome: DQA1*03:01.5, Valor: 184.12, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:01.5
+Salvando alelo: Nome: DQB1*03:02.3, Valor: 184.12, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:02.3
+Salvando alelo: Nome: DQA1*03:02, Valor: 251.36, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:02
+Salvando alelo: Nome: DQB1*03:02.4, Valor: 251.36, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:02.4
+Salvando alelo: Nome: DQB1*03:03, Valor: 82.5, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:03
+Salvando alelo: Nome: DQA1*03:01.6, Valor: 108.64, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:01.6
+Salvando alelo: Nome: DQB1*03:03.3, Valor: 108.64, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:03.3
+Salvando alelo: Nome: DQA1*03:02.2, Valor: 551.84, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:02.2
+Salvando alelo: Nome: DQB1*03:03.4, Valor: 551.84, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:03.4
+Processando paciente ID: 11, Nome: Arizona Robins
+Resultado do paciente criado com ID: 46, Total Compatível: 20, Total Incompatível: 7
+Salvando alelo: Nome: A*03:01, Valor: 9419.2, Compatibilidade: False
+Alelo salvo com sucesso: A*03:01
+Salvando alelo: Nome: A*33:01, Valor: 9025.07, Compatibilidade: False
+Alelo salvo com sucesso: A*33:01
+Salvando alelo: Nome: C*03:02, Valor: 9281.48, Compatibilidade: False
+Alelo salvo com sucesso: C*03:02
+Salvando alelo: Nome: C*03:03, Valor: 8640.05, Compatibilidade: False
+Alelo salvo com sucesso: C*03:03
+Salvando alelo: Nome: C*03:04, Valor: 12024.8, Compatibilidade: False
+Alelo salvo com sucesso: C*03:04
+Salvando alelo: Nome: A*33:03, Valor: 9493.46, Compatibilidade: False
+Alelo salvo com sucesso: A*33:03
+Salvando alelo: Nome: DRB1*03:01, Valor: 157.35, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*03:01
+Salvando alelo: Nome: DRB1*03:02, Valor: 210.67, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*03:02
+Salvando alelo: Nome: DRB3*03:01, Valor: 70.09, Compatibilidade: True
+Alelo salvo com sucesso: DRB3*03:01
+Salvando alelo: Nome: DQA1*03:01, Valor: 14980.46, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*03:01
+Salvando alelo: Nome: DQA1*03:03, Valor: 502.08, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:03
+Salvando alelo: Nome: DQA1*03:01.7, Valor: 131.66, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:01.7
+Salvando alelo: Nome: DQB1*03:01, Valor: 131.66, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01
+Salvando alelo: Nome: DQB1*03:01.7, Valor: 50, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01.7
+Salvando alelo: Nome: DQB1*03:01.8, Valor: 92.28, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01.8
+Salvando alelo: Nome: DQB1*03:19, Valor: 28.79, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:19
+Salvando alelo: Nome: DQB1*03:01.9, Valor: 38.09, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01.9
+Salvando alelo: Nome: DQB1*03:02, Valor: 91.48, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:02
+Salvando alelo: Nome: DQA1*03:01.8, Valor: 184.12, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:01.8
+Salvando alelo: Nome: DQB1*03:02.5, Valor: 184.12, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:02.5
+Salvando alelo: Nome: DQA1*03:02, Valor: 251.36, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:02
+Salvando alelo: Nome: DQB1*03:02.6, Valor: 251.36, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:02.6
+Salvando alelo: Nome: DQB1*03:03, Valor: 82.5, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:03
+Salvando alelo: Nome: DQA1*03:01.9, Valor: 108.64, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:01.9
+Salvando alelo: Nome: DQB1*03:03.5, Valor: 108.64, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:03.5
+Salvando alelo: Nome: DQA1*03:02.3, Valor: 551.84, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:02.3
+Salvando alelo: Nome: DQB1*03:03.6, Valor: 551.84, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:03.6
+Processando paciente ID: 12, Nome: Luiz Almeida
+Resultado do paciente criado com ID: 47, Total Compatível: 21, Total Incompatível: 6
+Salvando alelo: Nome: DRB1*03:01, Valor: 157.35, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*03:01
+Salvando alelo: Nome: DRB1*03:02, Valor: 210.67, Compatibilidade: True
+Alelo salvo com sucesso: DRB1*03:02
+Salvando alelo: Nome: DRB3*03:01, Valor: 70.09, Compatibilidade: True
+Alelo salvo com sucesso: DRB3*03:01
+Salvando alelo: Nome: DQA1*03:01, Valor: 14980.46, Compatibilidade: False
+Alelo salvo com sucesso: DQA1*03:01
+Salvando alelo: Nome: DQA1*03:03, Valor: 502.08, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:03
+Salvando alelo: Nome: DQA1*03:01.10, Valor: 131.66, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:01.10
+Salvando alelo: Nome: DQB1*03:01, Valor: 131.66, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01
+Salvando alelo: Nome: DQB1*03:01.10, Valor: 50, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01.10
+Salvando alelo: Nome: DQB1*03:01.11, Valor: 92.28, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01.11
+Salvando alelo: Nome: DQB1*03:19, Valor: 28.79, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:19
+Salvando alelo: Nome: DQB1*03:01.12, Valor: 38.09, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:01.12
+Salvando alelo: Nome: DQB1*03:02, Valor: 91.48, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:02
+Salvando alelo: Nome: DQA1*03:01.11, Valor: 184.12, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:01.11
+Salvando alelo: Nome: DQB1*03:02.7, Valor: 184.12, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:02.7
+Salvando alelo: Nome: DQA1*03:02, Valor: 251.36, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:02
+Salvando alelo: Nome: DQB1*03:02.8, Valor: 251.36, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:02.8
+Salvando alelo: Nome: DQB1*03:03, Valor: 82.5, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:03
+Salvando alelo: Nome: DQA1*03:01.12, Valor: 108.64, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:01.12
+Salvando alelo: Nome: DQB1*03:03.7, Valor: 108.64, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:03.7
+Salvando alelo: Nome: DQA1*03:02.4, Valor: 551.84, Compatibilidade: True
+Alelo salvo com sucesso: DQA1*03:02.4
+Salvando alelo: Nome: DQB1*03:03.8, Valor: 551.84, Compatibilidade: True
+Alelo salvo com sucesso: DQB1*03:03.8
+Salvando alelo: Nome: A*03:01, Valor: 9419.2, Compatibilidade: False
+Alelo salvo com sucesso: A*03:01
+Salvando alelo: Nome: A*33:01, Valor: 902.07, Compatibilidade: True
+Alelo salvo com sucesso: A*33:01
+Salvando alelo: Nome: C*03:02, Valor: 9281.48, Compatibilidade: False
+Alelo salvo com sucesso: C*03:02
+Salvando alelo: Nome: C*03:03, Valor: 8640.05, Compatibilidade: False
+Alelo salvo com sucesso: C*03:03
+Salvando alelo: Nome: C*03:04, Valor: 12024.8, Compatibilidade: False
+Alelo salvo com sucesso: C*03:04
+Salvando alelo: Nome: A*33:03, Valor: 9493.46, Compatibilidade: False
+Alelo salvo com sucesso: A*33:03
+Crossmatch processado com sucesso.
+Payload recebido: {"donor_name": "Daniela G", "donor_sex": "Feminino", "donor_birth_date": "2000-02-09", "donor_blood_type": "O-", "alelos": [{"tipo": "A", "numero": "7"}, {"tipo": "A", "numero": "7"}, {"tipo": "B", "numero": "7"}, {"tipo": "B", "numero": "77"}, {"tipo": "C", "numero": "77"}, {"tipo": "C", "numero": "7"}, {"tipo": "DR", "numero": "7"}, {"tipo": "DR", "numero": "7"}, {"tipo": "DQ", "numero": "7"}, {"tipo": "DQ", "numero": "7"}]}
+Tipo sanguíneo do doador: O-
+Pacientes com tipo sanguíneo compatível: [{'id': 10, 'nome': 'Alex Karev', 'tipo_sanguineo': 'O-'}, {'id': 11, 'nome': 'Arizona Robins', 'tipo_sanguineo': 'O-'}, {'id': 12, 'nome': 'Luiz Almeida', 'tipo_sanguineo': 'O-'}]
+Compatibilidade dos pacientes: {10: {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}]}, 11: {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}]}, 12: {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 99.28, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}]}}
+Dados recebidos no backend: {'donor_name': 'Daniela G', 'donor_sex': 'Feminino', 'donor_birth_date': '2000-02-09', 'donor_blood_type': 'O-', 'results': {'10': {'nome': 'Alex Karev', 'alelos_correspondentes': [{'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}]}, '11': {'nome': 'Arizona Robins', 'alelos_correspondentes': [{'nome': 'B*07:02', 'valor': 9923.28, 'compatibilidade': False}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}, {'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}]}, '12': {'nome': 'Luiz Almeida', 'alelos_correspondentes': [{'nome': 'DRB1*07:01', 'valor': 14746.13, 'compatibilidade': False}, {'nome': 'B*07:02', 'valor': 99.28, 'compatibilidade': True}, {'nome': 'C*07:02', 'valor': 208.26, 'compatibilidade': True}]}}}
+Crossmatch criado com ID: 22
+Processando paciente ID: 10, Nome: Alex Karev
+Resultado do paciente criado com ID: 48, Total Compatível: 1, Total Incompatível: 2
+Salvando alelo: Nome: B*07:02, Valor: 9923.28, Compatibilidade: False
+Alelo salvo com sucesso: B*07:02
+Salvando alelo: Nome: C*07:02, Valor: 208.26, Compatibilidade: True
+Alelo salvo com sucesso: C*07:02
+Salvando alelo: Nome: DRB1*07:01, Valor: 14746.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*07:01
+Processando paciente ID: 11, Nome: Arizona Robins
+Resultado do paciente criado com ID: 49, Total Compatível: 1, Total Incompatível: 2
+Salvando alelo: Nome: B*07:02, Valor: 9923.28, Compatibilidade: False
+Alelo salvo com sucesso: B*07:02
+Salvando alelo: Nome: C*07:02, Valor: 208.26, Compatibilidade: True
+Alelo salvo com sucesso: C*07:02
+Salvando alelo: Nome: DRB1*07:01, Valor: 14746.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*07:01
+Processando paciente ID: 12, Nome: Luiz Almeida
+Resultado do paciente criado com ID: 50, Total Compatível: 2, Total Incompatível: 1
+Salvando alelo: Nome: DRB1*07:01, Valor: 14746.13, Compatibilidade: False
+Alelo salvo com sucesso: DRB1*07:01
+Salvando alelo: Nome: B*07:02, Valor: 99.28, Compatibilidade: True
+Alelo salvo com sucesso: B*07:02
+Salvando alelo: Nome: C*07:02, Valor: 208.26, Compatibilidade: True
+Alelo salvo com sucesso: C*07:02
+Crossmatch processado com sucesso.
